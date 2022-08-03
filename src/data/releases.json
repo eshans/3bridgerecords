@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "imageURL": "./images/cloudbursts.jpg",
+    "title": "Cloud Bursts",
+    "artist": "Eric Shans",
+    "description": "Mexico City based artist Eisenheim is back on 3Bridge with a killer EP called 'Archetypes'. It features 2 original tracks with remixes by Primordial Om and Anduaga. Opening track 'Archetype 1:Selbst' is a foray into melodic breakbeat oriented electronica with mystical ethereal voices, big arpeggios, and cinematic pads. Archetype 2: Anima ventures into lush deep house territory with big drums, groovy bass lines, and classical music influences. The remix from Anduaga brings these elements and wraps them in a peak time techno affair made for those late night big rooms, and Primordial Om's version gives the track a breakbeat injection with shuffling loops, racing 16th patterns, warped melodies, and bottom heavy low end. Here at the label trying we're always trying to push new and inspiring sounds and this EP is no exception",
+    "buy": "https://www.beatport.com/release/ardour/3096956",
+    "stream": "https://open.spotify.com/album/5vNYmx4uNY5fIPrOCR0cUa?si=lwCXwLGtSn6g6ZNToPZKRQ"
+  },
+  {
+    "id": 1,
+    "imageURL": "/images/archtypes.jpg",
+    "title": "Archetypes",
+    "description": "Mexico City based artist Eisenheim is back on 3Bridge with a killer EP called 'Archetypes'. It features 2 original tracks with remixes by Primordial Om and Anduaga. Opening track 'Archetype 1:Selbst' is a foray into melodic breakbeat oriented electronica with mystical ethereal voices, big arpeggios, and cinematic pads. Archetype 2: Anima ventures into lush deep house territory with big drums, groovy bass lines, and classical music influences. The remix from Anduaga brings these elements and wraps them in a peak time techno affair made for those late night big rooms, and Primordial Om's version gives the track a breakbeat injection with shuffling loops, racing 16th patterns, warped melodies, and bottom heavy low end. Here at the label trying we're always trying to push new and inspiring sounds and this EP is no exception",
+    "artist": "Eisenheim",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 2,
+    "imageURL": "/images/pingpong.jpg",
+    "title": "Ping Pong",
+    "artist": "Simon Sampler & Fischmehl",
+    "description": "Mexico City based artist Eisenheim is back on 3Bridge with a killer EP called 'Archetypes'. It features 2 original tracks with remixes by Primordial Om and Anduaga. Opening track 'Archetype 1:Selbst' is a foray into melodic breakbeat oriented electronica with mystical ethereal voices, big arpeggios, and cinematic pads. Archetype 2: Anima ventures into lush deep house territory with big drums, groovy bass lines, and classical music influences. The remix from Anduaga brings these elements and wraps them in a peak time techno affair made for those late night big rooms, and Primordial Om's version gives the track a breakbeat injection with shuffling loops, racing 16th patterns, warped melodies, and bottom heavy low end. Here at the label trying we're always trying to push new and inspiring sounds and this EP is no exception",
+    "buy": "https://www.beatport.com/release/cloud-bursts/3687306",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 3,
+    "imageURL": "/images/cosmic.jpg",
+    "title": "Cosmic Explorations",
+    "description": "Released 2017",
+    "artist": "Eric Shans",
+    "buy": "https://ericshans.bandcamp.com/album/cosmic-explorations",
+    "stream": "https://open.spotify.com/album/3jN58PZuUQp8lNOMxLwjpU?si=YjkUuSQZQ_-zY_KfAduwYQ"
+  },
+  {
+    "id": 4,
+    "imageURL": "/images/yours-mine.jpg",
+    "title": "Yours and Mine",
+    "description": "Released 2015",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/yours-mine-ep/1573930",
+    "stream": "https://open.spotify.com/album/18OEPdGk0bsUjWReBNdt2x?si=t-Uj0zoTTCqj1DT0lLjMGw"
+  },
+  {
+    "id": 5,
+    "imageURL": "/images/no-endings.jpg",
+    "title": "No Endings EP",
+    "description": "The first EP released on the label",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/0lW2JVjBQJtUtwSm4WP6RZ?si=Wfcf5SMfSziRO9sWKadPuw"
+  },
+  {
+    "id": 6,
+    "imageURL": "/images/stranger.jpg",
+    "title": "A Stranger to Ourselves",
+    "description": "Released 2018",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 7,
+    "imageURL": "/images/days-ahead.jpg",
+    "title": "For The Days Ahead",
+    "description": "Released 2018",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 8,
+    "imageURL": "/images/hb-steady.jpg",
+    "title": "The Heartbeats Steady",
+    "description": "Released 2018",
+    "artist": "Eric Shans",
+    "buy": "https://ericshans.bandcamp.com/album/the-heart-beats-steady",
+    "stream": "https://open.spotify.com/album/7ccEzGcP4B7SzI0qIAKOJj?si=ihxAtmkATfG2jLMQ8xep0Q"
+  },
+  {
+    "id": 8,
+    "imageURL": "/images/heaven-wave.jpg",
+    "title": "Heaven is a Wave",
+    "description": "Released 2019",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 9,
+    "imageURL": "/images/leather-sweater.jpeg",
+    "title": "Leather Sweater",
+    "description": "Released 2019",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 10,
+    "imageURL": "/images/holdontome.jpg",
+    "title": "Hold On To Me",
+    "description": "Released 2019",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  }
+]
