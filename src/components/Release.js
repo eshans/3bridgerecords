@@ -11,6 +11,7 @@ const Release = () => {
         {releases.map((release, i) => (
           <div className="item" key={i}>
             <div className="title"> {release.title}</div>
+            <span className="small">Click image for more info </span>
             <Link to={`/release/${release.id}`}>
               <img className="image " src={release.imageURL} alt={release.name} />
             </Link>
@@ -30,7 +31,11 @@ const Wrapper = styled.div`
   .image {
     max-width: 100%;
     height: auto;
-}
+  }
+  .small {
+    font-size:.9rem;
+    font-weight: bold;
+  }
 `
 
 export default Release

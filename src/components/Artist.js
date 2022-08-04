@@ -1,5 +1,5 @@
 import artists from "../data/artists.json";
-import { Link, Route } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Artist() {
   return (
@@ -10,7 +10,6 @@ function Artist() {
           <Link to={`/artist/${artist.id}`}>
             <img src={artist.imageURL} alt={artist.name} />
           </Link>
-          <div className="bio">{artist.bio}</div>
         </div>
       ))}
     </div>

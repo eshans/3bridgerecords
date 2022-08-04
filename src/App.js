@@ -1,4 +1,5 @@
 import Navbar from './components/Navbar'
+import ArtistList from './components/ArtistList'
 import About from './pages/About'
 import Releases from './pages/Releases'
 import SingleRelease from './pages/SingleRelease'
@@ -13,7 +14,7 @@ import Menu from './components/Menu/Menu'
 import './main.css'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
-const Background = styled.div`
+const Wrapper = styled.div`
   height: 100vh;
   color:black;
 `;
@@ -21,7 +22,7 @@ const Background = styled.div`
 const App = () => {
   return (
 
-    <Background>
+    <Wrapper>
       <Navbar />
       <div className="container">
         <Router>
@@ -32,13 +33,13 @@ const App = () => {
             <Route path='/contact' element={<Contact />} />
             <Route path='/releases' element={<Releases />} />
             <Route path="/release/:id" element={<SingleRelease />} />
-            <Route path='/artist/*' element={<SingleArtist />} />
+            <Route path='/artist/:id' element={<SingleArtist />} />
             <Route path="*" element={<NotFound />} />
-
           </Routes>
         </Router>
+        <ArtistList />
       </div>
-    </Background>
+    </Wrapper>
 
   );
 }

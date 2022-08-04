@@ -1,46 +1,46 @@
 [
   {
     "id": 0,
-    "imageURL": "./images/cloudbursts.jpg",
+    "imageURL": "../images/releases/cloudbursts.jpg",
     "title": "Cloud Bursts",
     "artist": "Eric Shans",
-    "description": "Mexico City based artist Eisenheim is back on 3Bridge with a killer EP called 'Archetypes'. It features 2 original tracks with remixes by Primordial Om and Anduaga. Opening track 'Archetype 1:Selbst' is a foray into melodic breakbeat oriented electronica with mystical ethereal voices, big arpeggios, and cinematic pads. Archetype 2: Anima ventures into lush deep house territory with big drums, groovy bass lines, and classical music influences. The remix from Anduaga brings these elements and wraps them in a peak time techno affair made for those late night big rooms, and Primordial Om's version gives the track a breakbeat injection with shuffling loops, racing 16th patterns, warped melodies, and bottom heavy low end. Here at the label trying we're always trying to push new and inspiring sounds and this EP is no exception",
+    "description": "One of the main 3Bridge Records bosses Eric Shans is back with his first original music of 2022, 'Cloud Bursts'. Always trying to push the envelope both creatively and sonically, it's a killer 2 tracker that will fill your dance floors with energy and good vibes. \\n'The title track takes a monstrous bass line, thumping drums, anthemic chords, and twinkling arpeggios which really go for the late night peak time sound. 'Fractals' focuses on thick analog sounding low end, big synths, melodic pads, and clean retro-future percussion, as well as some fun vocals thrown in the mix. You'd do well to pick this single up for your digital crates.",
     "buy": "https://www.beatport.com/release/ardour/3096956",
     "stream": "https://open.spotify.com/album/5vNYmx4uNY5fIPrOCR0cUa?si=lwCXwLGtSn6g6ZNToPZKRQ"
   },
   {
     "id": 1,
-    "imageURL": "/images/archtypes.jpg",
+    "imageURL": "../images/releases/archtypes.jpg",
     "title": "Archetypes",
-    "description": "Mexico City based artist Eisenheim is back on 3Bridge with a killer EP called 'Archetypes'. It features 2 original tracks with remixes by Primordial Om and Anduaga. Opening track 'Archetype 1:Selbst' is a foray into melodic breakbeat oriented electronica with mystical ethereal voices, big arpeggios, and cinematic pads. Archetype 2: Anima ventures into lush deep house territory with big drums, groovy bass lines, and classical music influences. The remix from Anduaga brings these elements and wraps them in a peak time techno affair made for those late night big rooms, and Primordial Om's version gives the track a breakbeat injection with shuffling loops, racing 16th patterns, warped melodies, and bottom heavy low end. Here at the label trying we're always trying to push new and inspiring sounds and this EP is no exception",
+    "description": "Mexico City based artist Eisenheim is back on 3Bridge with a killer EP called 'Archetypes'. It features 2 original tracks with remixes by Primordial Om and Anduaga. Opening track 'Archetype 1:Selbst' is a foray into melodic breakbeat oriented electronica with mystical ethereal voices, big arpeggios, and cinematic pads. Archetype 2: Anima ventures into lush deep house territory with big drums, groovy bass lines, and classical music influences. The remix from Anduaga brings these elements and wraps them in a peak time techno affair made for those late night big rooms, and Primordial Om's version gives the track a breakbeat injection with shuffling loops, racing 16th patterns, warped melodies, and bottom heavy low end. \\n' Here at the label trying we're always trying to push new and inspiring sounds and this EP is no exception",
     "artist": "Eisenheim",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
     "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
   },
   {
     "id": 2,
-    "imageURL": "/images/pingpong.jpg",
+    "imageURL": "../images/releases/pingpong.jpg",
     "title": "Ping Pong",
     "artist": "Simon Sampler & Fischmehl",
-    "description": "Mexico City based artist Eisenheim is back on 3Bridge with a killer EP called 'Archetypes'. It features 2 original tracks with remixes by Primordial Om and Anduaga. Opening track 'Archetype 1:Selbst' is a foray into melodic breakbeat oriented electronica with mystical ethereal voices, big arpeggios, and cinematic pads. Archetype 2: Anima ventures into lush deep house territory with big drums, groovy bass lines, and classical music influences. The remix from Anduaga brings these elements and wraps them in a peak time techno affair made for those late night big rooms, and Primordial Om's version gives the track a breakbeat injection with shuffling loops, racing 16th patterns, warped melodies, and bottom heavy low end. Here at the label trying we're always trying to push new and inspiring sounds and this EP is no exception",
+    "description": "We welcome Simon Sampler back to the label for a great 2 tracker featuring Austrian producer Fischmehl as well. 'Wetterwand' is a pitched down deep house affair with floating pads, big bass lines, and echoed vocals. 'Ping Pong'' amps up the energy with its hypnotic techno delivery. Off kilter melodies, racing hi hats, and synthesized hits is the formula here.",
     "buy": "https://www.beatport.com/release/cloud-bursts/3687306",
     "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
   },
   {
     "id": 3,
-    "imageURL": "/images/cosmic.jpg",
-    "title": "Cosmic Explorations",
-    "description": "Released 2017",
-    "artist": "Eric Shans",
+    "imageURL": "../images/releases/kanterbury.jpg",
+    "title": "Kanterbury",
+    "description": "Spanish producer Tony Crawm strikes back in 2022 on 3Bridge with this huge two tracker, 'Kanterbury'. These are meant for the dark, foggy rooms in the peak time hours where everyone is ready to get down and dirty. The title track takes a moving arpeggiated bass, quirky vocal snippets, punchy snare rolls, and a mega tight groove which will have a floor moving. 'This This' goes more the sweaty techno-route with racing hi-hats, swirling atmospheres, and fat bottom end.'Kanterbury' will surely light up your DJ sets ; you can almost hear the strobe lights emanating from tracks.",
+    "artist": "Tony Crawm",
     "buy": "https://ericshans.bandcamp.com/album/cosmic-explorations",
     "stream": "https://open.spotify.com/album/3jN58PZuUQp8lNOMxLwjpU?si=YjkUuSQZQ_-zY_KfAduwYQ"
   },
   {
     "id": 4,
-    "imageURL": "/images/yours-mine.jpg",
-    "title": "Yours and Mine",
-    "description": "Released 2015",
-    "artist": "Eric Shans",
+    "imageURL": "../images/releases/chunky.jpg",
+    "title": "Chunky",
+    "description": "Gatto is back on 3Bridge with his first release of 2022 with his newest single 'Chunky'. This two track EP of deep and melodic funky house is truly a groovy affair. The title track showcases subwoofer type low-end, big waves of melodic pads, unique percussion patterns, and subtle vocal chops and 'What It Is' takes a bit more of a tech-house approach with a rumbling bass, smacking snares, and analog stabs. It's a perfect B-side highlighting the contrasts of the lights and the darks on the aural canvas.",
+    "artist": "Gatto",
     "buy": "https://www.beatport.com/release/yours-mine-ep/1573930",
     "stream": "https://open.spotify.com/album/18OEPdGk0bsUjWReBNdt2x?si=t-Uj0zoTTCqj1DT0lLjMGw"
   },

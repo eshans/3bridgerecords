@@ -2,14 +2,28 @@ import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
 import { useParams } from 'react-router-dom';
+import artists from '../data/artists.json'
 
-function SingleArtist(props) {
+function SingleArtist() {
+  const { id } = useParams() //finds single artist from array & matches ID
+  const artist = artists.find((a) => a.id === +id);  //a.id === id compares a.id of type number to id of type string, which will result false due to the '===' strict operator
 
-  const { id } = useParams()
   return (
-    <div>Single Artist page</div>
+    <Wrapper>
+      <h3> Artist Info </h3>
+      <div className='name'>{artist.name}
+      </div>
+      <div className='bio'>{artist.bio}</div>
+      <Link className='link-back' to="/artists"> Back To Artists</Link>
+    </Wrapper>
   )
 }
+
+const Wrapper = styled.div`
+    .name {
+      font-size:2rem;
+    }
+`;
 
 
 export default SingleArtist 
