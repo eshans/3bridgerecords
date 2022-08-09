@@ -37,9 +37,10 @@ const App = () => {
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Router>
-        <ArtistList />
+        {/* <ArtistList /> */}
       </div>
-    </Wrapper>
+
+    </Wrapper >
 
   );
 }

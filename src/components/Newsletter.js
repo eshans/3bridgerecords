@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import MailchimpSubscribe from "react-mailchimp-subscribe"
 
-const StyledNewsletter = styled.div`
+const Wrapper = styled.div`
   min-height:15vh;
   width:40vw;
 `;
@@ -27,10 +27,10 @@ const CustomForm = () => (
 
 const Newsletter = () => {
   return (
-    <StyledNewsletter>
+    <Wrapper>
       <h3> Subscribe to the 3Bridge Newsletter!</h3>
       <CustomForm />
-    </StyledNewsletter>
+    </Wrapper>
   )
 }
 

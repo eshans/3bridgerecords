@@ -155,6 +155,11 @@ p {
   padding: 2em
 }
 
+.content {
+  flex-direction: row;
+  align-items: left;
+}
+
 /*
 =============== 
 Navbar
