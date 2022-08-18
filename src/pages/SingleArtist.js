@@ -10,25 +10,51 @@ function SingleArtist() {
 
   return (
     <Wrapper>
-      <h3> Artist Info </h3>
-      <div className='name'>{artist.name}
+      <div class="artist-container">
+        <div className='item'>
+          <h3> Artist Info </h3>
+          <p>{artist.name}</p>
+          <div className='image'>
+            <img src={artist.singleimageURL} alt={artist.name} />
+          </div>
+          <div class="info">
+            {artist.bio}
+          </div>
+        </div>
       </div>
-      <div className='bio'>{artist.bio}</div>
-      <div className='image'><img src={artist.singleimageURL} alt={artist.name} /></div>
       <a href={'https://soundcloud.com/' + artist.soundcloud} target="_blank" rel="noreferrer">
         Soundcloud
       </a>
-
-      <Link className='link-back' to="/artists"> Back To Artists</Link>
+      <h3><Link className='link-back' to="/artists"> Back To Artists</Link></h3>
     </Wrapper>
   )
 }
 
 const Wrapper = styled.div`
-    .name {
-      font-size:2rem;
-    }
-`;
 
+    .artist-container {
+      display: -webkit-flex;
+      display: flex;
+      -webkit-flex-direction: row;
+      flex-direction: row;
+      justify-content: center;
+      flex-wrap: nowrap; 
+    }
+
+    .item {
+      background-color: transparent;
+      margin: 3px;
+      padding: 5px 0 0 5px;
+      flex: 1;
+    }
+
+    .item img {
+      object-fit: center;
+      height: 15rem;
+      width: 15rem;
+      float:left;
+      margin-right: 5px;
+    }
+`
 
 export default SingleArtist 

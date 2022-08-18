@@ -12,8 +12,6 @@ const Release = () => {
       <div className="release fadein">
         {releases.map((release, i) => (
           <div className="item" key={i}>
-            <h4 className="artist"> {release.artist}</h4>
-            <div className="title"> {release.title}</div>
             <Link to={`/release/${release.id}`}>
               <img className="image border" src={release.imageURL} alt={release.name} />
             </Link>

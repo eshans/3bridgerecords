@@ -152,7 +152,9 @@ p {
 }
 
 .container {
-  padding: 2em
+  padding: .5em;
+  background: var(--clr-grey-4);
+  height: 200vh;
 }
 
 .content {
@@ -166,7 +168,7 @@ Navbar
 ===============
 */
 nav {
-  background: var(--clr-white);
+  background: var(--clr-black);
   box-shadow: var(--light-shadow);
 }
 
@@ -179,7 +181,7 @@ nav {
 
 .nav-toggle {
   font-size: 1.5rem;
-  color: var(--clr-primary-5);
+  color: var(--clr-white);
   background: transparent;
   border-color: transparent;
   transition: var(--transition);
@@ -187,7 +189,7 @@ nav {
 }
 
 .nav-toggle:hover {
-  color: var(--clr-primary-1);
+  color: var(--clr-white);
   transform: rotate(90deg);
 }
 
@@ -196,7 +198,7 @@ nav {
 }
 
 .links a {
-  color: var(--clr-grey-3);
+  color: var(--clr-white);
   font-size: 1rem;
   text-transform: capitalize;
   letter-spacing: var(--spacing);
@@ -223,6 +225,10 @@ nav {
 
 .show-container {
   height: 10rem;
+}
+
+.item img {
+  width: 300px;
 }
 
 @media screen and (min-width: 800px) {
@@ -275,37 +281,4 @@ nav {
   .social-icons a:hover {
     color: var(--clr-primary-7);
   }
-}
-
-/*Newsletter Module*/
-input,
-input:focus {
-  padding: 10px 13px;
-  border: 0;
-  outline: 0;
-}
-
-input[type="email"] {
-  margin-right: 15px;
-  width: 300px;
-  color: #a09f9f;
-}
-
-button {
-  padding: 10px 15px;
-  color: #c0d6db;
-  background: #427b89;
-  text-shadow: 0 2px 2px #333;
-  box-shadow: inset 0 0 0 transparent;
-  background: var(--clr-red-dark);
-  background: linear-gradient(to bottom, #508f9f 0%, #346976 100%);
-  transition: all .3s ease-in-out;
-}
-
-button:hover,
-button:focus {
-  box-shadow: inset 0 0 50px rgba(255, 255, 255, 0.3),
-    0 0 10px rgba(255, 255, 255, 0.1);
-  color: white;
-  margin-left: 10px;
 }

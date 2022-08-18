@@ -46,7 +46,7 @@
   },
   {
     "id": 5,
-    "imageURL": "/images/no-endings.jpg",
+    "imageURL": "../images/releases/alright.jpg",
     "title": "No Endings EP",
     "description": "The first EP released on the label",
     "artist": "Eric Shans",
@@ -55,8 +55,8 @@
   },
   {
     "id": 6,
-    "imageURL": "/images/stranger.jpg",
-    "title": "A Stranger to Ourselves",
+    "imageURL": "../images/releases/figureform.jpg",
+    "title": "Figure and Form",
     "description": "Released 2018",
     "artist": "Eric Shans",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
@@ -64,7 +64,7 @@
   },
   {
     "id": 7,
-    "imageURL": "/images/days-ahead.jpg",
+    "imageURL": "../images/outofsight.jpg",
     "title": "For The Days Ahead",
     "description": "Released 2018",
     "artist": "Eric Shans",

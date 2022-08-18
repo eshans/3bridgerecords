@@ -15,8 +15,9 @@ import './main.css'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
 const Wrapper = styled.div`
-  height: 100vh;
-  color:black;
+  height: 100%;
+  color:white;
+  
 `;
 
 const App = () => {

@@ -4,7 +4,7 @@ import Release from '../components/Release'
 
 const Releases = () => {
   return (
-    <div>
+    <div class="item">
       <Release />
     </div>
   )
