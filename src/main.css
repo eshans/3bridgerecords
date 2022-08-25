@@ -153,12 +153,8 @@ p {
 
 .container {
   padding: .5em;
-  background: url('./images/bg.jpg')no-repeat center top fixed;
-  height: 100vh;
-  width: 100vw;
-  background-size: cover;
-  background-position: center;
-
+  background-color: black;
+  height: 100%;
 }
 
 .content {
@@ -235,9 +231,6 @@ nav {
   height: 10rem;
 }
 
-.item img {
-  width: 300px;
-}
 
 @media screen and (min-width: 800px) {
   .nav-center {

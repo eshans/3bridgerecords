@@ -14,9 +14,6 @@ function Releases() {
 }
 
 const Wrapper = styled.div`
-  .container {
-    height:200vh;
-  }
 
     .release {
       display:grid;

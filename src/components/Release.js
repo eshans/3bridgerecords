@@ -3,9 +3,8 @@ import releases from "../data/releases.json";
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 import '../main.css'
-import 'react-lazy-load-image-component/src/effects/blur.css';
-import { LazyLoadImage, trackWindowScroll } from 'react-lazy-load-image-component';
-const Release = ({ scrollPosition }) => {
+
+const Release = () => {
 
   return (
     <Wrapper>
@@ -13,7 +12,7 @@ const Release = ({ scrollPosition }) => {
         {releases.map((release, i) => (
           <div className="item" key={i}>
             <Link to={`/release/${release.id}`}>
-              <img className="image border" src={release.imageURL} alt={release.name} />
+              <img src={release.imageURL} alt={release.artist} />
             </Link>
           </div>
         ))}
@@ -23,9 +22,10 @@ const Release = ({ scrollPosition }) => {
 }
 
 const Wrapper = styled.div`
+
     .release {
       display:grid;
-      grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       flex-wrap: wrap;
       margin-bottom:1rem;
     }
@@ -33,6 +33,11 @@ const Wrapper = styled.div`
     .item {
       margin-bottom:2rem;
     }
+
+
+    .item img {
+      width: 250px;
+    } 
 
     h4 {
       margin-bottom:.3rem;
@@ -68,5 +73,4 @@ const Wrapper = styled.div`
       border-image: repeating-linear-gradient(45deg, gray, black 15%) 1;
     } 
 `
-
-export default Release
+export default Release;
