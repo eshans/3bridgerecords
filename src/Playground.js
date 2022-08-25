@@ -143,3 +143,15 @@ function SingleRelease(props) {
 }
 
 export default SingleRelease
+
+
+// const [releases, setReleases] = useState([])
+const [currentPage, setCurrentPage] = useState(false)
+const [releasesPerPage, setReleasesPerPage] = useState(8)
+
+// //Get index 
+const indexOfLastRelease = currentPage * releasesPerPage
+const indexofFirstRelease = indexOfLastRelease - releasesPerPage
+const currentReleases = releases.slice(indexofFirstRelease, indexOfLastRelease)
+
+console.log(currentReleases)

@@ -1,6 +1,7 @@
 [
   {
     "id": 0,
+    "artistID": "ES",
     "imageURL": "../images/releases/cloudbursts.jpg",
     "title": "Cloud Bursts",
     "artist": "ERIC SHANS",
@@ -10,15 +11,17 @@
   },
   {
     "id": 1,
+    "artistID": "ES",
     "imageURL": "../images/releases/archtypes.jpg",
     "title": "Archetypes",
     "description": "Mexico City based artist Eisenheim is back on 3Bridge with a killer EP called 'Archetypes'. It features 2 original tracks with remixes by Primordial Om and Anduaga. Opening track 'Archetype 1:Selbst' is a foray into melodic breakbeat oriented electronica with mystical ethereal voices, big arpeggios, and cinematic pads. Archetype 2: Anima ventures into lush deep house territory with big drums, groovy bass lines, and classical music influences. The remix from Anduaga brings these elements and wraps them in a peak time techno affair made for those late night big rooms, and Primordial Om's version gives the track a breakbeat injection with shuffling loops, racing 16th patterns, warped melodies, and bottom heavy low end. \\n' Here at the label trying we're always trying to push new and inspiring sounds and this EP is no exception",
-    "artist": "EISENHEIM",
+    "artist": "ERIC SHANS",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
     "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
   },
   {
     "id": 2,
+    "artistID": "BG",
     "imageURL": "../images/releases/pingpong.jpg",
     "title": "Ping Pong",
     "artist": "SIMON SAMPLER & FISCHMEHL",
@@ -47,9 +50,9 @@
   {
     "id": 5,
     "imageURL": "../images/releases/alright.jpg",
-    "title": "No Endings EP",
+    "title": "Alright",
     "description": "The first EP released on the label",
-    "artist": "Eric Shans",
+    "artist": "Simon Sampler",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
     "stream": "https://open.spotify.com/album/0lW2JVjBQJtUtwSm4WP6RZ?si=Wfcf5SMfSziRO9sWKadPuw"
   },
@@ -58,14 +61,15 @@
     "imageURL": "../images/releases/figureform.jpg",
     "title": "Figure and Form",
     "description": "Released 2018",
-    "artist": "Eric Shans",
+    "artist": "Begona",
+    "artistID": "BG",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
     "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
   },
   {
     "id": 7,
-    "imageURL": "../images/outofsight.jpg",
-    "title": "For The Days Ahead",
+    "imageURL": "../images/releases/figureform.jpg",
+    "title": "Figure and Form",
     "description": "Released 2018",
     "artist": "Eric Shans",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
@@ -73,34 +77,61 @@
   },
   {
     "id": 8,
-    "imageURL": "/images/hb-steady.jpg",
-    "title": "The Heartbeats Steady",
+    "imageURL": "../images/releases/figureform.jpg",
+    "title": "Figure and Form",
     "description": "Released 2018",
-    "artist": "Eric Shans",
-    "buy": "https://ericshans.bandcamp.com/album/the-heart-beats-steady",
-    "stream": "https://open.spotify.com/album/7ccEzGcP4B7SzI0qIAKOJj?si=ihxAtmkATfG2jLMQ8xep0Q"
-  },
-  {
-    "id": 8,
-    "imageURL": "/images/heaven-wave.jpg",
-    "title": "Heaven is a Wave",
-    "description": "Released 2019",
     "artist": "Eric Shans",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
     "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
   },
   {
     "id": 9,
-    "imageURL": "/images/leather-sweater.jpeg",
-    "title": "Leather Sweater",
-    "description": "Released 2019",
+    "imageURL": "../images/releases/figureform.jpg",
+    "title": "Figure and Form",
+    "description": "Released 2018",
     "artist": "Eric Shans",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
     "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
   },
   {
     "id": 10,
-    "imageURL": "/images/holdontome.jpg",
+    "imageURL": "../images/releases/figureform.jpg",
+    "title": "Figure and Form",
+    "description": "Released 2018",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 11,
+    "imageURL": "../images/releases/figureform.jpg",
+    "title": "Figure and Form",
+    "description": "Released 2018",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 12,
+    "imageURL": "../images/releases/figureform.jpg",
+    "title": "Figure and Form",
+    "description": "Released 2018",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 13,
+    "imageURL": "../images/releases/figureform.jpg",
+    "title": "Figure and Form",
+    "description": "Released 2018",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 14,
+    "imageURL": "../images/releases/figureform.jpg",
     "title": "Hold On To Me",
     "description": "Released 2019",
     "artist": "Eric Shans",

@@ -1,11 +1,11 @@
-import React from 'react'
+import { useState } from 'react'
 import releases from "../data/releases.json";
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 import '../main.css'
-
-
-const Release = () => {
+import 'react-lazy-load-image-component/src/effects/blur.css';
+import { LazyLoadImage, trackWindowScroll } from 'react-lazy-load-image-component';
+const Release = ({ scrollPosition }) => {
 
   return (
     <Wrapper>
