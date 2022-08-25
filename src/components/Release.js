@@ -27,7 +27,7 @@ const Wrapper = styled.div`
       display:grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       flex-wrap: wrap;
-      margin-bottom:1rem;
+      margin:2rem 0 1rem 70px;
     }
 
     .item {
