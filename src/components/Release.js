@@ -23,7 +23,8 @@ const Release = () => {
             </Link>
           </div>
         ))}
-        {items ? <button onClick={loadMore} className="btn" > show more </button> : <button className="btn hidden" ></button>}
+        {/* If array is at the end, hide button */}
+        {items.length < releases.length && <button onClick={loadMore} className="btn" > Show more </button>}
       </div>
     </Wrapper >
   )
@@ -31,10 +32,6 @@ const Release = () => {
 
 const Wrapper = styled.div`
     
-    .hidden {
-      display: none;
-    }
-
     .release {
       display:grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
