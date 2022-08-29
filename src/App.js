@@ -1,4 +1,5 @@
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 import ArtistList from './components/ArtistList'
 import About from './pages/About'
 import Releases from './pages/Releases'
@@ -15,7 +16,7 @@ import './main.css'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
 const Wrapper = styled.div`
-  height: 100%;
+  background-color:#000;
 `;
 
 const App = () => {
@@ -38,9 +39,7 @@ const App = () => {
         </Router>
         {/* <ArtistList /> */}
       </div>
-
     </Wrapper >
-
   );
 }
 

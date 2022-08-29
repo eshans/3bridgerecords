@@ -11,8 +11,6 @@ function SingleArtist() {
   const release = releases.filter((b) => b.id === +id);
   const merged = artists.map(itm => ({ ...itm, ...releases.find(item => item.id === itm.id && item) }))
 
-  console.log(merged)
-
   return (
     <Wrapper>
       <div className="artist-container">
@@ -25,22 +23,23 @@ function SingleArtist() {
           <div className="info">
             {artist.bio}
           </div>
+          <a href={'https://soundcloud.com/' + artist.soundcloud} target="_blank" rel="noreferrer">
+            Soundcloud
+          </a>
         </div>
       </div>
-      <a href={'https://soundcloud.com/' + artist.soundcloud} target="_blank" rel="noreferrer">
-        Soundcloud
-      </a>
+
       <h3>
         <Link className='link-back' to="/artists"> Back To Artists</Link>
       </h3>
-      <h4> Releases by this artist </h4>
+      <h4> Releases by {artist.name} </h4>
       <div className="matches">
         {release.map(release => {
-          // here you can display any part of each release
+          const { title, imageURL, name } = release;
           return (
             <div className="item" key="id">
-              {release.title}
-              <img src={release.imageURL} alt={artist.name} />
+              {title}
+              <img src={imageURL} alt={name} />
             </div>
           )
         })}
@@ -58,6 +57,7 @@ const Wrapper = styled.div`
       flex-direction: row;
       justify-content: center;
       flex-wrap: nowrap; 
+      color:#fff;
     }
 
     .item {
@@ -74,7 +74,6 @@ const Wrapper = styled.div`
       width: 15rem;
       float:left;
       margin-right: 20px;
-      
     }
 
     .info {

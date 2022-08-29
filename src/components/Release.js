@@ -5,10 +5,11 @@ import { Link } from 'react-router-dom';
 import '../main.css'
 
 const Release = () => {
-  // get first 12 items in array & load next 12 with "see more button"
+  // get first 12 items in array
   const STEP = 12;
   const [items, setItems] = useState(releases.slice(0, STEP));
 
+  //Adds next 12
   const loadMore = () => {
     setItems([...items, ...releases.slice(items.length, items.length + STEP)]);
   };
@@ -24,7 +25,9 @@ const Release = () => {
           </div>
         ))}
         {/* If array is at the end, hide button */}
-        {items.length < releases.length && <button onClick={loadMore} className="btn" > Show more </button>}
+        {items.length < releases.length &&
+          <button onClick={loadMore} className="btn" > Show more </button>
+        }
       </div>
     </Wrapper >
   )
@@ -39,7 +42,7 @@ const Wrapper = styled.div`
       margin:2rem 0 1rem 70px;
     }
 
-    .item {
+     .item {
       margin-bottom:2rem;
     }
 
@@ -52,7 +55,7 @@ const Wrapper = styled.div`
       padding:0;
     }
 
-   .fadein img{
+    .fadein img{
       opacity:0.8;
       transition: 1s ease;
     }
