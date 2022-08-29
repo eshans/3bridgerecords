@@ -23,13 +23,17 @@ const Release = () => {
             </Link>
           </div>
         ))}
-        <button onClick={loadMore}>See more </button>
+        {items ? <button onClick={loadMore} className="btn" > show more </button> : <button className="btn hidden" ></button>}
       </div>
-    </Wrapper>
+    </Wrapper >
   )
 }
 
 const Wrapper = styled.div`
+    
+    .hidden {
+      display: none;
+    }
 
     .release {
       display:grid;
