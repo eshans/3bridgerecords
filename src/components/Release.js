@@ -5,17 +5,25 @@ import { Link } from 'react-router-dom';
 import '../main.css'
 
 const Release = () => {
+  // get first 12 items in array & load next 12 with "see more button"
+  const STEP = 12;
+  const [items, setItems] = useState(releases.slice(0, STEP));
+
+  const loadMore = () => {
+    setItems([...items, ...releases.slice(items.length, items.length + STEP)]);
+  };
 
   return (
     <Wrapper>
       <div className="release fadein">
-        {releases.map((release, i) => (
+        {items.map((item, i) => (
           <div className="item" key={i}>
-            <Link to={`/release/${release.id}`}>
-              <img src={release.imageURL} alt={release.artist} />
+            <Link to={`/release/${item.id}`}>
+              <img src={item.imageURL} alt={item.artist} />
             </Link>
           </div>
         ))}
+        <button onClick={loadMore}>See more </button>
       </div>
     </Wrapper>
   )
@@ -33,7 +41,6 @@ const Wrapper = styled.div`
     .item {
       margin-bottom:2rem;
     }
-
 
     .item img {
       width: 250px;

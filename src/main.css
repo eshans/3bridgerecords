@@ -154,7 +154,7 @@ p {
 .container {
   padding: .5em;
   background-color: black;
-  min-height: 300px;
+  min-height: 100vh;
 }
 
 .content {

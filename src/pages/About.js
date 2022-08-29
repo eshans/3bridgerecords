@@ -1,7 +1,7 @@
 import React from 'react'
 import nyc from '../images/nyc.jpg'
 import styled from 'styled-components'
-import '../main.css'
+
 
 const About = () => {
   return (

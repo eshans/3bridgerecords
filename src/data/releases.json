@@ -137,5 +137,14 @@
     "artist": "Eric Shans",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
     "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 15,
+    "imageURL": "../images/releases/figureform.jpg",
+    "title": "Hold On To Me",
+    "description": "Released 2019",
+    "artist": "Eric Shans",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
   }
 ]
