@@ -8,6 +8,7 @@ import releases from "../data/releases.json";
 function SingleArtist() {
   const { id } = useParams() //finds single artist from array & matches ID
   const artist = artists.find((a) => a.id === +id);
+  const { singleimageURL, name, soundcloud, bio } = artist
   const release = releases.filter((b) => b.id === +id);
   const merged = artists.map(itm => ({ ...itm, ...releases.find(item => item.id === itm.id && item) }))
 
@@ -16,23 +17,22 @@ function SingleArtist() {
       <div className="artist-container">
         <div className='item'>
           <h3> Artist Info </h3>
-          <p>{artist.name}</p>
+          <p className='name'>{name}</p>
           <div className='image'>
-            <img src={artist.singleimageURL} alt={artist.name} />
+            <img src={singleimageURL} alt={name} />
           </div>
           <div className="info">
-            {artist.bio}
+            {bio}
           </div>
-          <a href={'https://soundcloud.com/' + artist.soundcloud} target="_blank" rel="noreferrer">
-            Soundcloud
+          <a href={'https://soundcloud.com/' + soundcloud} target="_blank" rel="noreferrer">
+            Listen to {name}'s Soundcloud
           </a>
         </div>
       </div>
-
       <h3>
         <Link className='link-back' to="/artists"> Back To Artists</Link>
       </h3>
-      <h4> Releases by {artist.name} </h4>
+      <h4> Releases by {name} </h4>
       <div className="matches">
         {release.map(release => {
           const { title, imageURL, name } = release;
@@ -49,6 +49,14 @@ function SingleArtist() {
 }
 
 const Wrapper = styled.div`
+    
+    h3 a { 
+      color:#fff;
+    }
+
+    .name {
+      font-size:24px;
+    }
 
     .artist-container {
       display: -webkit-flex;
@@ -73,7 +81,7 @@ const Wrapper = styled.div`
       height: 15rem;
       width: 15rem;
       float:left;
-      margin-right: 20px;
+      margin:0 15px 15px 0
     }
 
     .info {

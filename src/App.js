@@ -1,6 +1,5 @@
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import ArtistList from './components/ArtistList'
 import About from './pages/About'
 import Releases from './pages/Releases'
 import SingleRelease from './pages/SingleRelease'
@@ -11,7 +10,6 @@ import Contact from './pages/Contact'
 import styled from 'styled-components'
 import bg from './images/bg.jpg'
 import logo from './images/logo.png'
-import Menu from './components/Menu/Menu'
 import './main.css'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
@@ -37,7 +35,6 @@ const App = () => {
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Router>
-        {/* <ArtistList /> */}
       </div>
     </Wrapper >
   );
