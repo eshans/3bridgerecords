@@ -14,7 +14,7 @@ import './main.css'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
 const Wrapper = styled.div`
-  background-color:#000;
+  
 `;
 
 const App = () => {
@@ -37,6 +37,7 @@ const App = () => {
         </Router>
       </div>
     </Wrapper >
+
   );
 }
 

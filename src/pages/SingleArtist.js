@@ -16,12 +16,12 @@ function SingleArtist() {
     <Wrapper>
       <div className="artist-container">
         <div className='item'>
-          <h3> Artist Info </h3>
-          <p className='name'>{name}</p>
+
           <div className='image'>
             <img src={singleimageURL} alt={name} />
           </div>
           <div className="info">
+            <p className='name'>{name}</p>
             {bio}
           </div>
           <a href={'https://soundcloud.com/' + soundcloud} target="_blank" rel="noreferrer">
@@ -29,17 +29,17 @@ function SingleArtist() {
           </a>
         </div>
       </div>
-      <h3>
+      <span>
         <Link className='link-back' to="/artists"> Back To Artists</Link>
-      </h3>
-      <h4> Releases by {name} </h4>
+      </span>
+
       <div className="matches">
+        <h4> Releases by {name} </h4>
         {release.map(release => {
           const { title, imageURL, name } = release;
           return (
             <div className="item" key="id">
-              {title}
-              <img src={imageURL} alt={name} />
+              <img className="image" src={imageURL} alt={name} />
             </div>
           )
         })}
@@ -50,8 +50,12 @@ function SingleArtist() {
 
 const Wrapper = styled.div`
     
-    h3 a { 
+    span a { 
       color:#fff;
+    }
+
+    .image {
+      width:100px;
     }
 
     .name {
@@ -87,6 +91,10 @@ const Wrapper = styled.div`
     .info {
       padding: 0 20px 10px 10px;
       margin-right:20px;
+    }
+
+    .matches {
+      margin-top:1em;
     }
 `
 
