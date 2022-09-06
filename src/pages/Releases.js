@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom';
-import releases from "../data/releases.json";
 import styled from 'styled-components';
 import '../main.css'
 import Release from '../components/Release';

@@ -1,5 +1,4 @@
 import artists from "../data/artists.json";
-import releases from "../data/releases.json";
 import { Link } from 'react-router-dom';
 import styled from "styled-components";
 

@@ -1,54 +1,54 @@
 [
   {
     "id": 0,
+    "artistID": "ES",
     "imageURL": "./images/artists/ericblue.jpg",
     "singleimageURL": "../images/artists/ericblue.jpg",
-    "artistID": "ES",
     "name": "ERIC SHANS",
     "bio": "A producer and DJ residing in Brooklyn, NY, Eric Shans has been making and playing music for almost 20 years. He has always been influenced by melodic, dreamy sounds which have a smattering of grit underneath. Both under the synth pop sounding monikers Phenotract and Fermion (a duo), and under his own name, he has many releases and remixes that span the genres of deep house, tech house, techno, and ambient. The music he makes is truly reflective of the sounds he loves to hear; forward thinking and at times, wrapped in a sense of nostalgia. His DJ sets are also an embodiment of this as well, combining ethereal vocals, driving and dirty bass lines, and moving melodies for the heart, feet, and mind. He's played for years across many venues in the NYC area, including TBA Brooklyn, Cielo, Louie and Chan, various loft and private parties, and more. Eric also co-runs the labels 3Bridge Records and 3Bridge Elements based in Brooklyn and is one of the founders of the inTRANSIT parties which take place in New York City mainly at TBA Brooklyn, one of the borough's best underground clubs.",
     "soundcloud": "eric-shans"
   },
   {
     "id": 1,
+    "artistID": "DW",
     "imageURL": "./images/artists/deepwoods.jpg",
     "singleimageURL": "../images/artists/deepwoods.jpg",
-    "artistID": "DW",
     "name": "DEEP WOODS",
     "bio": "Since the 1990s Greg Cuoco aka Deep Woods has been cultivating his sound from New York City's many environments. Residing in Brooklyn where a vast series of urban landscapes bring forth many different feelings and emotions has allowed Deep Woods to incorporate these elements into his music. Native to NYC, he has combined the experience of NYC in the 1990s and today into sonic soundscapes that evoke emotion on the dance floor. Influenced by the soul, funk & disco of the '70s and the house music of the '90s, Deep Woods has unleashed a signature sound DJing in clubs since 1990 both in NYC and abroad. Always evolving, the sound of a Deep Woods production has changed over the years transporting you to a deep, rhythmic, mysterious forest the resides within your mind and your soul. Be prepared to experience the journey that is Deep Woods.",
     "soundcloud": "deep-woods"
   },
   {
     "id": 2,
+    "artistID": "BB",
     "imageURL": "./images/artists//brianburnside.jpg",
     "singleimageURL": "../images/artists/brianburnside.jpg",
-    "artistID": "BB",
     "name": "BRIAN BURNSIDE",
-    "bio": "If anyone knows how to push the limits of house music…its Brian Burnside. Born and raised in Brooklyn, Brian is the co-founder, Producer, DJ and Graphic Designer of the record label deepa grooves. If you've ever heard Brian deejay, you would understand how every facet of his life has been devoted to the feeling, attitude and deep mentality of NYC's thriving house music culture. As a DJ, Brian's mix of soulful highs and deep-tech thumps can bring a crowd to near-rapture while maintaining tight rhythms and perfect harmonies.",
+    "bio": "If anyone knows how to push the limits of house music, it's Brian Burnside. Born and raised in Brooklyn, Brian is the co-founder, Producer, DJ and Graphic Designer of the record label Deepa Grooves. If you've ever heard Brian DJ, you would understand how every facet of his life has been devoted to the feeling, attitude, and deep mentality of NYC's thriving house music culture. As a DJ, Brian's mix of soulful highs and deep-tech thumps can bring a crowd to near-rapture, while maintaining tight rhythms and perfect harmonies.",
     "soundcloud": "brianburnsidemusic"
   },
   {
     "id": 3,
+    "artistID": "SU",
     "imageURL": "./images/sumsuch.jpg",
     "singleimageURL": "../images/artists/sumsuch.jpg",
-    "artistID": "SS",
     "name": "SUMSUCH",
     "bio": "Will Sumsuch has been a musician, producer and DJ for over a decade, gathering both a grass roots fan- base and industry respect, due to his unique ear for quality music and distinctive production style. His tracks have been used on national TV adverts in the UK, played on radio worldwide, and released on countless compilation albums. His first two releases on Urban Torque recordings received support from luminaries including Ben Watt, Justin Martin, Jody Wisternoff & Allister Whitehead. Will's remixes have been released on Hed Kandi and Time Records among others",
     "soundcloud": "sumsuch"
   },
   {
     "id": 4,
+    "artistID": "JO",
     "imageURL": "./images/artists/djjoma.jpg",
     "singleimageURL": "../images/artists/djjoma.jpg",
-    "artistID": "JO",
     "name": "DJ JOMA",
     "bio": "Biographies are not a thing that I like to read, especially DJ ones. Most of them come with the “I have loved music since I was a baby…”, “House Music was love at first sight (or hearing)… So don't worry, because I'm not going to make it sound like being booked by the Top 10 best Night-clubs ever every night. I'm not going to say how I only play because of my deep love for music. That's not what you are going to read here. I'll say that I have been producing tracks as of late with a very talented vocalist, Moon Aton, and we have tracks on a few labels such as Be Adult, Color & Pitch, and now 3Bridge Records. And with DJing, simply, for me, it's all about mood and a deep, hypnotic groove… playing and producing those tracks that get you tapping your feet and nodding your head without you realizing it, regardless of genre, tempo, style, or release date.",
     "soundcloud": "jomadjay"
   },
   {
     "id": 5,
+    "artistID": "PA",
     "imageURL": "./images/peteahern.jpg",
     "singleimageURL": "../images/artists/peteahern.jpg",
-    "artistID": "PA",
     "name": "PETE AHERN",
     "bio": "Starting out as a DJ back in 2000 Pete has grown into a producer, releasing tracks on Prison Entertainment & Piso Records. He has also become a prominent promoter for exclusive underground DJ events held in unique settings all over Nantucket (The Nantucket Whaling museum, The Nantucket Dreamland and Underground Locations). Pete has DJed, promoted and organized parties for people like Nightmares On Wax, Ali Shaheed Muhammad (a tribe called quest), Rob Garza (Thievery Corporation), Andhim and Nickodemus.In the coming years the plans are to keep it going. Bringing amazing A-List acts DJ / Producer talent in fitting locations on Nantucket that the fans and talent deserve.",
     "soundcloud": "devlin75"

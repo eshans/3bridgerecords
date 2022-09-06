@@ -11,17 +11,17 @@
   },
   {
     "id": 1,
-    "artistID": "ES",
+    "artistID": "EI",
     "imageURL": "../images/releases/archtypes.jpg",
     "title": "Archetypes",
     "description": "Mexico City based artist Eisenheim is back on 3Bridge with a killer EP called 'Archetypes'. It features 2 original tracks with remixes by Primordial Om and Anduaga. Opening track 'Archetype 1:Selbst' is a foray into melodic breakbeat oriented electronica with mystical ethereal voices, big arpeggios, and cinematic pads. Archetype 2: Anima ventures into lush deep house territory with big drums, groovy bass lines, and classical music influences. The remix from Anduaga brings these elements and wraps them in a peak time techno affair made for those late night big rooms, and Primordial Om's version gives the track a breakbeat injection with shuffling loops, racing 16th patterns, warped melodies, and bottom heavy low end. \\n' Here at the label trying we're always trying to push new and inspiring sounds and this EP is no exception",
-    "artist": "ERIC SHANS",
+    "artist": "EISENHEIM",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
     "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
   },
   {
     "id": 2,
-    "artistID": "BG",
+    "artistID": "SS",
     "imageURL": "../images/releases/pingpong.jpg",
     "title": "Ping Pong",
     "artist": "SIMON SAMPLER & FISCHMEHL",
@@ -31,6 +31,7 @@
   },
   {
     "id": 3,
+    "artistID": "TC",
     "imageURL": "../images/releases/kanterbury.jpg",
     "title": "Kanterbury",
     "description": "Spanish producer Tony Crawm strikes back in 2022 on 3Bridge with this huge two tracker, 'Kanterbury'. These are meant for the dark, foggy rooms in the peak time hours where everyone is ready to get down and dirty. The title track takes a moving arpeggiated bass, quirky vocal snippets, punchy snare rolls, and a mega tight groove which will have a floor moving. 'This This' goes more the sweaty techno-route with racing hi-hats, swirling atmospheres, and fat bottom end.'Kanterbury' will surely light up your DJ sets ; you can almost hear the strobe lights emanating from tracks.",
@@ -40,6 +41,7 @@
   },
   {
     "id": 4,
+    "artistID": "FG",
     "imageURL": "../images/releases/chunky.jpg",
     "title": "Chunky",
     "description": "Gatto is back on 3Bridge with his first release of 2022 with his newest single 'Chunky'. This two track EP of deep and melodic funky house is truly a groovy affair. The title track showcases subwoofer type low-end, big waves of melodic pads, unique percussion patterns, and subtle vocal chops and 'What It Is' takes a bit more of a tech-house approach with a rumbling bass, smacking snares, and analog stabs. It's a perfect B-side highlighting the contrasts of the lights and the darks on the aural canvas.",
@@ -49,6 +51,7 @@
   },
   {
     "id": 5,
+    "artistID": "SS",
     "imageURL": "../images/releases/alright.jpg",
     "title": "Alright",
     "description": "The first EP released on the label",
@@ -58,16 +61,17 @@
   },
   {
     "id": 6,
+    "artistID": "BG",
     "imageURL": "../images/releases/figureform.jpg",
     "title": "Figure and Form",
     "description": "Released 2018",
     "artist": "Begona",
-    "artistID": "BG",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
     "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
   },
   {
     "id": 7,
+    "artistID": "BB",
     "imageURL": "../images/releases/burn.jpg",
     "title": "Burn",
     "description": "Released 2021",
@@ -77,6 +81,7 @@
   },
   {
     "id": 8,
+    "artistID": "CS",
     "imageURL": "../images/releases/drivethrucrazy.jpg",
     "title": "Drive Through The Crazy",
     "description": "Released 2019",
@@ -86,6 +91,7 @@
   },
   {
     "id": 9,
+    "artistID": "SU",
     "imageURL": "../images/releases/dulcie.jpg",
     "title": "Dulcie Caught a Cricket",
     "description": "Released 2020",
@@ -95,6 +101,7 @@
   },
   {
     "id": 10,
+    "artistID": "BT",
     "imageURL": "../images/releases/evolution.jpg",
     "title": "Evolution",
     "description": "Released 2018",
@@ -104,6 +111,7 @@
   },
   {
     "id": 11,
+    "artistID": "PA",
     "imageURL": "../images/releases/gettinit.jpg",
     "title": "Pete Ahern",
     "description": "Released 2021",
@@ -113,8 +121,8 @@
   },
   {
     "id": 12,
-    "imageURL": "../images/releases/figureform.jpg",
-    "title": "Figure and Form",
+    "imageURL": "../images/releases/sbemerge.jpg",
+    "title": "Emerge",
     "description": "Released 2018",
     "artist": "Eric Shans",
     "buy": "https://www.beatport.com/release/we-choose/1916121",

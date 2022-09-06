@@ -167,3 +167,6 @@ function sliceIntoChunks(arr, chunkSize) {
 }
 
 console.log(sliceIntoChunks(releases, 3));
+
+//Merge 2 arrays
+const merged = artists.map(itm => ({ ...itm, ...releases.find(item => item.id === itm.id && item) }))

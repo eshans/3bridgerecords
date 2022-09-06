@@ -37,9 +37,9 @@ const Wrapper = styled.div`
     
     .release {
       display:grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
       flex-wrap: wrap;
-      margin:2rem 0 1rem 70px;
+      margin:2rem 0 1rem 30px;
     }
 
      .item {
@@ -47,7 +47,7 @@ const Wrapper = styled.div`
     }
 
     .item img {
-      width: 250px;
+      width: 270px;
     } 
 
     h4 {

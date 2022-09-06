@@ -7,18 +7,16 @@ import releases from "../data/releases.json";
 
 function SingleArtist() {
   const { id } = useParams() //finds single artist from array & matches ID
-  const artist = artists.find((a) => a.id === +id);
+  const artist = artists.find((a) => a.id === +id)
+  const releaseList = releases.filter((b) => b.artistID === artist.artistID);
   const { singleimageURL, name, soundcloud, bio } = artist
-  const release = releases.filter((b) => b.id === +id);
-  const merged = artists.map(itm => ({ ...itm, ...releases.find(item => item.id === itm.id && item) }))
 
   return (
     <Wrapper>
       <div className="artist-container">
         <div className='item'>
-
           <div className='image'>
-            <img src={singleimageURL} alt={name} />
+            <img className='artist' src={singleimageURL} alt={name} />
           </div>
           <div className="info">
             <p className='name'>{name}</p>
@@ -35,11 +33,13 @@ function SingleArtist() {
 
       <div className="matches">
         <h4> Releases by {name} </h4>
-        {release.map(release => {
-          const { title, imageURL, name } = release;
+        {releaseList.map(release => {
+          const { imageURL, name, id, buy } = release;
           return (
-            <div className="item" key="id">
-              <img className="image" src={imageURL} alt={name} />
+            <div className="item" key={id}>
+              <a href={buy} target="_blank" rel="noreferrer">
+                <img className="image" src={imageURL} alt={name} />
+              </a>
             </div>
           )
         })}
@@ -55,7 +55,7 @@ const Wrapper = styled.div`
     }
 
     .image {
-      width:100px;
+      width:200px;
     }
 
     .name {
@@ -80,10 +80,10 @@ const Wrapper = styled.div`
       align-self: stretch;
     }
 
-    .item img {
+    .item .artist {
       object-fit: center;
-      height: 15rem;
-      width: 15rem;
+
+      max-width:400px;
       float:left;
       margin:0 15px 15px 0
     }

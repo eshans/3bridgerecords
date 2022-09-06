@@ -7,20 +7,14 @@ import SingleArtist from './pages/SingleArtist'
 import Artists from './pages/Artists'
 import NotFound from './pages/NotFound'
 import Contact from './pages/Contact'
-import styled from 'styled-components'
-import bg from './images/bg.jpg'
-import logo from './images/logo.png'
 import './main.css'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
-const Wrapper = styled.div`
-  
-`;
+
 
 const App = () => {
   return (
-
-    <Wrapper>
+    <>
       <Navbar />
       <div className="container">
         <Router>
@@ -36,7 +30,7 @@ const App = () => {
           </Routes>
         </Router>
       </div>
-    </Wrapper >
+    </>
 
   );
 }

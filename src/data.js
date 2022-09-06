@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaBehance, FaFacebook, FaInstagram, FaLinkedin, FaSoundcloud, FaTwitter, FaYoutube } from 'react-icons/fa'
+import { FaFacebook, FaInstagram, FaSoundcloud, FaSpotify, FaYoutube } from 'react-icons/fa'
 export const links = [
   {
     id: 1,
@@ -48,5 +48,10 @@ export const social = [
     id: 4,
     url: 'https://soundcloud.com/3bridge-records',
     icon: <FaSoundcloud />,
+  },
+  {
+    id: 5,
+    url: 'https://open.spotify.com/playlist/5b1rzCipCBEHPVu6kwTQYf?si=5ea0bc5c56b04add',
+    icon: <FaSpotify />,
   },
 ]
