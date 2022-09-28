@@ -8,7 +8,8 @@ import releases from "../data/releases.json";
 function SingleArtist() {
   const { id } = useParams() //finds single artist from array & matches ID
   const artist = artists.find((a) => a.id === +id)
-  const releaseList = releases.filter((b) => b.artistID === artist.artistID);
+  //finds ArtistID from Artists then matches any item that has the same value from the Releases array
+  const releaseList = releases.filter((b) => b.artistID === artist.artistID)
   const { singleimageURL, name, soundcloud, bio } = artist
 
   return (
@@ -18,9 +19,13 @@ function SingleArtist() {
           <div className='image'>
             <img className='artist' src={singleimageURL} alt={name} />
           </div>
-          <div className="info">
-            <p className='name'>{name}</p>
-            {bio}
+          <div className="description">
+            <p className='name'>
+              {name}
+            </p>
+            <p className='bio'>
+              {bio}
+            </p>
           </div>
           <a href={'https://soundcloud.com/' + soundcloud} target="_blank" rel="noreferrer">
             Listen to {name}'s Soundcloud
@@ -62,6 +67,11 @@ const Wrapper = styled.div`
       font-size:24px;
     }
 
+    .bio {
+      color:#fff;
+      font-size: 1em;
+    }
+
     .artist-container {
       display: -webkit-flex;
       display: flex;
@@ -82,7 +92,6 @@ const Wrapper = styled.div`
 
     .item .artist {
       object-fit: center;
-
       max-width:400px;
       float:left;
       margin:0 15px 15px 0

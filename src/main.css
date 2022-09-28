@@ -75,6 +75,11 @@ ul {
 
 a {
   text-decoration: none;
+  color: var(--clr-grey-5)
+}
+
+a:hover {
+  color: var(--clr-grey-10)
 }
 
 h1,
@@ -198,7 +203,7 @@ nav {
 }
 
 .logo {
-  height: 4rem;
+  height: 3rem;
 }
 
 .links a {
@@ -230,6 +235,11 @@ nav {
 
 .show-container {
   height: 10rem;
+}
+
+.description {
+  font-size: 1rem;
+  color: #fff;
 }
 
 
@@ -284,6 +294,10 @@ nav {
     color: var(--clr-primary-7);
   }
 
+}
 
-
+@media screen and (max-width: 800px) {
+  .description {
+    font-size: 1em;
+  }
 }

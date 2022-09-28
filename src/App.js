@@ -31,7 +31,6 @@ const App = () => {
         </Router>
       </div>
     </>
-
   );
 }
 

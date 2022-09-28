@@ -7,24 +7,33 @@ function SingleRelease(props) {
   const { id } = useParams();
   //r.id === id compares r.id of type number to id of type string, which will result false due to the '===' strict operator so +id converts
   const release = releases.find((r) => r.id === +id);
-  const { imageURL, title, description, buy } = release;
+  const { imageURL, title, description, buy, stream } = release;
 
   return (
     <Wrapper>
       <div className='release-container'>
         <div className='item'>
-          {/* <div className='title'>{release.title}</div>
-          <div className='artist'>{release.artist} </div> */}
           <img src={imageURL} className='image' alt={title} />
-          <p className='description'> {description} </p>
+          <p className='description'>
+            {description}
+          </p>
           <div>
-            <a target='_blank' href={buy} rel="noreferrer">Buy </a></div>
+            <a target='_blank' href={buy} rel="noreferrer">
+              Buy
+            </a>
+          </div>
+          <div>
+            <a target='_blank' href={stream} rel="noreferrer">
+              Stream
+            </a>
+          </div>
+
           <div>
             <Link to="/releases"> Back To Releases</Link>
           </div>
         </div>
       </div>
-    </Wrapper>
+    </Wrapper >
   )
 }
 
@@ -34,15 +43,15 @@ const Wrapper = styled.div`
       display: flex;
     }
 
-    .item {
+    .release-container .item {
       margin: 3px;
       padding: 5px 0 0 5px;
     
     }
-    .item img {
+    .release-container .item img {
       float:left;
       margin-right: 20px;
-      width:220px;
+      width:20em;
     }
 
     .info {

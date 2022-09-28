@@ -55,70 +55,70 @@
   },
   {
     "id": 6,
+    "artistID": "ED",
     "imageURL": "./images/elliot.jpg",
     "singleimageURL": "../images/artists/elliot.jpg",
-    "artistID": "ED",
     "name": "ELLIOT DEHOYOS",
     "bio": "Elliot DeHoyos has been uplifting crowds with his live DJ sets and original productions for the past twenty years; always pushing the boundaries and continually advancing the underground music scene. As a DJ, DeHoyos is known for his intricate and sophisticated mixing. He seamlessly blends a range of styles, from tech house to tribal, Techno to deep house. The common denominator is a driving, unforgettable percussive rhythm; one that reverberates a global sound. Elliot's talents have earned him residencies at New York institutions, such as XL Lounge, Avalon NY, Club Deep and SBNY, as well as regular appearances at The Tunnel, Twilo, Limelight, Centro-Fly, BLVD, Club Love, Roxy, Rise (Boston), and Twist (Miami). His skills have also landed him international gigs at Phoenix (Sydney, Australia), Embassy (Manila, Philippines), Terminal Night Club (Quebec City) and Circus (Montreal).",
     "soundcloud": "elliot-dehoyos"
   },
   {
     "id": 7,
+    "artistID": "DH",
     "imageURL": "./images/dadhaus.jpg",
     "singleimageURL": "../images/artists/dadhaus.jpg",
-    "artistID": "DH",
     "name": "DADHAUS",
-    "bio": "Dadhaus is two music obsessives touched by the hand of the rave and seeking to rekindle the simple love of analog synths, glow sticks, and hands in the air. What are you on and where are you from?.",
+    "bio": "Dadhaus is two music obsessives touched by the hand of the rave and seeking to rekindle the simple love of analog synths, glow sticks, and hands in the air. What are you on and where are you from?",
     "soundcloud": "dadhaus"
   },
   {
     "id": 8,
+    "artistID": "MR",
     "imageURL": "./images/artists/markryal.jpg",
     "singleimageURL": "../images/artists/markryal.jpg",
     "name": "MARK RYAL",
-    "artistID": "MR",
     "bio": "Dj and music producer at:Colour and Pitch Records Brighton, Ante Records Chicago, Xenology Records Scotland, Voyeur Music Madrid, We Are Minder Scotland, Wildtrackin Records Germany.Long at the forefront of the underground scene Mark has been djing for more than 27 years. Over the course of his career including his years at the Sub Club and The Nitsa Club Mark not only played alongside the other residents Harri, Domenic Cappello, Twitch and Oscar but also alongside nearly every notable DJ of the last 25 years.Mark has shared the turntables with them all; Derrick May, Juan Atkins, Blake Baxter, Mr Fingers, Stacey Pullen, Claude Young, Joshua, Gene Farris, DJ Rush, Cajmere, Gemini, DJ Sneak, Dan Curtin, Richie Hawtin, Darren Emmerson, Slam, Mark Broom, Funk d ́Void, Ralph Lawson, Kenny Hawkes, DJ Q, Joey Beltram, Baby Ford, Ian Pooley, Evil Eddie Richards, Darren Price, Faze Action, Kevin Saunderson, Schatrax, James Holroyd, Surgeon, The Advent, Carl Craig, Chez Damier, Johnny Fiasco, DJ Deep, Green Velvet, Steve Bug, Tom Middleton, Derrick Carter, Stevie Donaldson, Mr C, Larry Heard, Peter and Rene from Chain Reaction, Simon DK, Josh Brent, Nigel Hayes, Dj Dimitri, Luke Slater, Dave Angel, Dave Clarke even a memorable night with Dj Duke (at a house party in his flat in Glasgow) and many many more. He has held residencies in two of the most important clubs in their respective countries The Sub Club and The Nitsa Club and been at the forefront of pushing the Underground agenda wherever he plays. Currently Mark is resident Dj at Indeep, Science, Black Out and Horizontal. All nights where he continues to explore the deeper side of electronic music, playing his Detroit influenced house and techno.",
     "soundcloud": "mark-ryal"
   },
   {
     "id": 9,
+    "artistID": "RI",
     "imageURL": "./images/rico2.jpg",
     "singleimageURL": "../images/artists/rico2.jpg",
-    "artistID": "RI",
     "name": "RICCICOMOTO",
     "bio": "MUSICPRODUCTION: riccicomoto (enrico regini) is a well known DJ and producer living in Ibiza...for the last few years he's grooved in clubs and festivals with his special and unique sound... ...always on the lookout for something out of the ordinary, the special sound, with the provided musical repertoire, which is varied, unusual and distinguishes his sound......as a producer his special interest is the electronic variety of jazz, soul and the cinematic sounds...but also ambient, break beat, dub, trip hop, down tempo, electronica and deep house tunes are included in his repertoire...his productions mix established and transformed genre and go sometimes in a new symbiosis direction......he has been experimenting with a computer, different sound machines and a 22 year old Yamaha organ to create a sound that's very original...which he then tests on non suspecting listeners in clubs and events......up until now he has had no complaints...or casualties...IBIZA GLOBAL RADIO: since august 2007 Riccicomoto has got his own international weekly radio show at 'Ibiza Gobal Radio'...this is one of the most important european radio stations for club-culture and electronic media... ...the show called 'Riccicomoto ́s audio self defence' is running every saturday at 3PM...his DJ sets are always diversified...often a mix of casual-jazz and cliff - hanging score-tunes...gliding over with perfect dub-techniques and roof raising bass lines to initiate the ultimate electrodubtechjazz experience... ...riccicomoto's sound is never intrusive...you will feel just fine, movin' your ass at the dancefloor...or head nodding taking a drink at the bar...so just come around... http://riccicomoto.de.",
     "soundcloud": "riccicomoto"
   },
   {
     "id": 10,
+    "artistID": "EI",
     "imageURL": "./images/eisenheim.jpg",
     "singleimageURL": "../images/artists/eisenheim.jpg",
-    "artistID": "EI",
     "name": "EISENHEIM",
     "bio": "The Eisenheim's frequential quintessence tale goes back into a large gamut of mind facts, chances and choices giving, thus, the feeling to listen to stories within an order of notes, songs and words. This is the moment to decide to enter in a different universe so that you give yourselves the opportunity to transmit another perspective of things, Materia, and unity.",
     "soundcloud": "eisenheimusic"
   },
   {
     "id": 11,
+    "artistID": "BG",
     "imageURL": "./images/begona.jpg",
     "singleimageURL": "../images/artists/begona.jpg",
-    "artistID": "BG",
     "name": "BEGONA",
     "bio": "MUSICPRODUCTION: riccicomoto (enrico regini) is a well known DJ and producer living in Ibiza...for the last few years he's grooved in clubs and festivals with his special and unique sound... ...always on the lookout for something out of the ordinary, the special sound, with the provided musical repertoire, which is varied, unusual and distinguishes his sound......as a producer his special interest is the electronic variety of jazz, soul and the cinematic sounds...but also ambient, break beat, dub, trip hop, down tempo, electronica and deep house tunes are included in his repertoire...his productions mix established and transformed genre and go sometimes in a new symbiosis direction......he has been experimenting with a computer, different sound machines and a 22 year old Yamaha organ to create a sound that's very original...which he then tests on non suspecting listeners in clubs and events......up until now he has had no complaints...or casualties...IBIZA GLOBAL RADIO: since august 2007 Riccicomoto has got his own international weekly radio show at 'Ibiza Gobal Radio'...this is one of the most important european radio stations for club-culture and electronic media... ...the show called 'Riccicomoto ́s audio self defence' is running every saturday at 3PM...his DJ sets are always diversified...often a mix of casual-jazz and cliff - hanging score-tunes...gliding over with perfect dub-techniques and roof raising bass lines to initiate the ultimate electrodubtechjazz experience... ...riccicomoto's sound is never intrusive...you will feel just fine, movin' your ass at the dancefloor...or head nodding taking a drink at the bar...so just come around... http://riccicomoto.de."
   },
   {
     "id": 12,
-    "imageURL": "./images/companyss.jpg",
-    "singleimageURL": "../images/artists/companyss.jpg",
     "artistID": "CS",
+    "imageURL": "./images/companyss.png",
+    "singleimageURL": "../images/artists/companyss.png",
     "name": "THE COMPANY SOUNDSYSTEM",
-    "bio": "The Company Soundsystem emerged from Brooklyn's underground house scene and has made a name for himself with incendiary live sets and genre-crossing original tracks on labels Nite Grooves (NYC), LTHM (San Francisco) and 3 Bridge Records (NYC)."
+    "bio": "The Company Soundsystem emerged from Brooklyn's underground house scene and has made a name for himself with incendiary live sets and genre-crossing original tracks on labels Nite Grooves (NYC), LTHM (San Francisco) and 3Bridge Records (NYC)."
   },
   {
     "id": 13,
+    "artistID": "SL",
     "imageURL": "./images/slava.jpg",
     "singleimageURL": "../images/artists/slava.jpg",
-    "artistID": "SL",
     "name": "SLAV-KA",
     "bio": "Not content with being merely a left brain-er, Slav Ka has searched for a creative outlet of his right brain activity and found it with electronic music production.  Self-taught and curious by nature yet anchored by the experience of a life long music aficionado, his sound attempts at walking the line between playful experimentation of a novice and rigid demands for dance orthodoxy of a jaded raver."
   },
@@ -129,5 +129,21 @@
     "artistID": "SJ",
     "name": "SHAKIB JAKIR",
     "bio": "Shakib Jakir started his musical journey at a very young age. He grew up learning Indian classical music at the age of 4 playing harmony with his father. For years he played the bass, but his love for dark and heavy bass lines, and the melodic synth pads of house & techno drew him to produce his own electronic music. He learned music production from some of his very close and talented friends, but his unique sound and production style came so naturally that he has since then taken his own path.  Now 2 years into his passion, Shakib has released tracks on Incepto Bundles, Absurd State, Inmost Records, Aeriform Records, and 3Bridge Records."
+  },
+  {
+    "id": 15,
+    "artistID": "TC",
+    "imageURL": "./images/artists/tonycrawm.jpg",
+    "singleimageURL": "../images/artists/tonycrawm.jpg",
+    "name": "TONY CRAWM",
+    "bio": "Tony Crawm is a young and lively Dj/Producer that was born in Málaga, Spain in 1984. In 2004 his passion for music drew  him into the world of electronics, collaborating on Electro House,Tech House and House festivals. During the first years he was strongly influenced by great Spanish DJs like Iván Pica, David Penn, Miguel Picasso and Dj Chus, as well as by Stefano Noferini,Thomas Gold, DJ loko, Jay Lumen, Filthy Rich and Umek on the international scene. 2007 was the key year for developing his musical style, when he started doing his own performances and mixes, along with the desire of experimenting with professional advanced software.  This is how Tony Crawm was born as we know him today. Since 2009 he has been performing his own sessions without a break, working on events and festivals, giving priority to rhythms, strength and originality. In 2010 we worked as a promoter for House/Tech House festivals in local and public spaces as Sala Liquid Brains (Málaga), Café Lounge Almora (Málaga), and started as a resident DJ for Disco Parthenon (Torremolinos). In 2012, after two years of successful events, he started revealing himself as a DJ with a sharp ear skilled in catching the latest trends that he brings into his works without stridency and where elegance is dominant. His house, tech house, and techno sessions speak for themselves and show us a DJ and producer in top form with plenty of history ahead to write."
+  },
+  {
+    "id": 16,
+    "artistID": "SB",
+    "imageURL": "./images/artists/sleepyboo.jpg",
+    "singleimageURL": "../images/artists/sleepyboo.jpg",
+    "name": "SLEEPY & BOO",
+    "bio": "Sleepy & Boo’s undying passion for underground music pervades everything they do. As DJs, this duo have become essential figures in the Big Apple’s dynamic music scene. They have left their mark on countless dancefloors of all shapes and sizes, rocking rooms both big and small across New York City and beyond. Their sets are all about the groove, mixing together the best tracks from across the musical spectrum, hand-selecting the choicest cuts to create an unmatched vibe and atmosphere. Whether supporting some of the world’s biggest DJs, or crafting their own headlining sets, Sleepy & Boo are known for their musical diversity and knack for picking the right tracks at the right moment. \n2015 marked a new phase for Sleepy & Boo, who entered into the production arena with the release of their own original music. 'The 17th Floor' EP on New York's esteemed Nervous Records marked their production debut. That was followed up by 'The Highway EP' on Nervous, plus EPs on New York's techno upstart De-Noize Records, Italy's Lapsus Music, Romania's Quanticman Records, the UK's Savoir Faire Musique, and SF's Moulton Music. Their productions reflect their DJing style: wide-ranging, dancefloor-driven tracks that cover emotions and energy from dark to light. Apart from their own events, the duo is consistently DJing at some of the best parties, venues and festivals around the world."
   }
 ]

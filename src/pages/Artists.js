@@ -48,20 +48,20 @@ const Wrapper = styled.div`
   .name {
     font-size: 2rem;
   }
+
   @media screen and (max-width: 800px) {
     .image {
       display: none;
-    }
+  }
 
     .content.artists {
       margin-left:10px
-    }
+  }
 
     .name {
     font-size: 1rem;
-  }
-    
-  }
+  } 
+}
 `
 
 export default Artists
