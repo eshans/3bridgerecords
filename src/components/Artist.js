@@ -5,7 +5,9 @@ import styled from "styled-components";
 function Artist() {
   return (
     <Wrapper>
+      <h2> Artist Roster </h2>
       <div className="content artists">
+
         {artists.map((artist, i) => (
           <div className="item" key={i}>
             <Link to={`/artist/${artist.id}`}>

@@ -1,9 +1,11 @@
 import React from 'react'
 import Newsletter from '../components/Newsletter'
 
+
 const Contact = () => {
   return (
-    <div>Contact
+    <div>
+      Contact
       <Newsletter />
     </div>
   )

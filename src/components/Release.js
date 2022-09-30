@@ -83,5 +83,15 @@ const Wrapper = styled.div`
       border-width: 3px;
       border-image: repeating-linear-gradient(45deg, gray, black 15%) 1;
     } 
+
+    .btn {
+      height:5vh;
+      background-color: blue;
+      border-radius:1px;
+      border: none;
+      outline: none;
+      color:#fff;
+      width:270px;
+    }
 `
 export default Release;

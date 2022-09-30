@@ -32,6 +32,7 @@ Variables
   --clr-grey-10: hsl(210, 36%, 96%);
   --clr-white: #fff;
   --clr-red-dark: hsl(360, 67%, 44%);
+  --clr-red-medium: hsl(359, 100%, 50%);
   --clr-red-light: hsl(360, 71%, 66%);
   --clr-green-dark: hsl(125, 67%, 44%);
   --clr-green-light: hsl(125, 71%, 66%);
@@ -110,7 +111,7 @@ h4 {
 
 p {
   margin-bottom: 1.25rem;
-  color: var(--clr-grey-5);
+  color: var(--clr-white);
 }
 
 @media screen and (min-width: 800px) {
@@ -159,7 +160,7 @@ p {
 
 .container {
   padding: .5em;
-  background-color: black;
+  background-color: var(--clr-grey-4);
   min-height: 100vh;
 }
 
