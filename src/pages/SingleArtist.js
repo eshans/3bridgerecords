@@ -20,19 +20,21 @@ function SingleArtist() {
             <img className='artist' src={singleimageURL} alt={name} />
           </div>
           <div className="description">
-            <p className='name'>
+            <h3 className='name'>
               {name}
-            </p>
+            </h3>
             <p className='bio'>
               {bio}
             </p>
           </div>
+        </div>
+      </div>
+      <span>
+        <div>
           <a href={'https://soundcloud.com/' + soundcloud} target="_blank" rel="noreferrer">
             Listen to {name}'s Soundcloud
           </a>
         </div>
-      </div>
-      <span>
         <Link className='link-back' to="/artists"> Back To Artists</Link>
       </span>
 
@@ -55,8 +57,9 @@ function SingleArtist() {
 
 const Wrapper = styled.div`
     
-    span a { 
+    a { 
       color:#fff;
+      font-weight:bold;
     }
 
     .image {
@@ -94,7 +97,8 @@ const Wrapper = styled.div`
       object-fit: center;
       max-width:400px;
       float:left;
-      margin:0 15px 15px 0
+      margin:0 15px 15px 0;
+      max-height:70vh;
     }
 
     .info {

@@ -74,7 +74,7 @@
     "description": "Released 2018",
     "artist": "Begona",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
-    "stream": "https://open.spotify.com/album/0wLd3eVrLCog0x2hCzVEkB?si=X0KtnXEKSuCr8AXjdYN0pA"
+    "stream": "https://open.spotify.com/album/0wLd3eVrLCog0x2hCzVEkB?si=BkqaN8lMQza1TCW0s0OEjA"
   },
   {
     "id": 7,
@@ -113,7 +113,7 @@
     "artistID": "BT",
     "featuredartists": "ES, FG",
     "imageURL": "../images/releases/evolution.jpg",
-    "title": "Evolution",
+    "title": "Evolutionary Tactics",
     "description": "Released 2018",
     "artist": "Futureworlder",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
@@ -165,6 +165,72 @@
   },
   {
     "id": 14,
+    "artistID": "DW",
+    "featuredartists": "ES, FG",
+    "imageURL": "../images/releases/deepwoodslove.jpg",
+    "title": "L.O.V.E",
+    "description": "Released 2020",
+    "artist": "Deep Woods",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 15,
+    "artistID": "DW",
+    "featuredartists": "ES, FG",
+    "imageURL": "../images/releases/deepwoodslove.jpg",
+    "title": "L.O.V.E",
+    "description": "Released 2020",
+    "artist": "Deep Woods",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 16,
+    "artistID": "DW",
+    "featuredartists": "ES, FG",
+    "imageURL": "../images/releases/deepwoodslove.jpg",
+    "title": "L.O.V.E",
+    "description": "Released 2020",
+    "artist": "Deep Woods",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 17,
+    "artistID": "SB",
+    "featuredartists": "ES, FG",
+    "imageURL": "../images/releases/perception.jpg",
+    "title": "Perception",
+    "description": "Released 2020",
+    "artist": "Deep Woods",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 18,
+    "artistID": "RI",
+    "featuredartists": "",
+    "imageURL": "../images/releases/ricoluv.jpg",
+    "title": "Someone To Luv",
+    "description": "Released 2018",
+    "artist": "Riccicomoto",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/72WQbg3c4tBXSs7G7LeMcG?si=sVIXfDCPSl-b64BqlqWsLg"
+  },
+  {
+    "id": 19,
+    "artistID": "JO",
+    "featuredartists": "ES",
+    "imageURL": "../images/releases/sadeyes.jpg",
+    "title": "Sad Eyes",
+    "description": "Released 2021",
+    "artist": "DJ Joma",
+    "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 20,
     "artistID": "DW",
     "featuredartists": "ES, FG",
     "imageURL": "../images/releases/deepwoodslove.jpg",
