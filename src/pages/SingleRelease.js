@@ -11,29 +11,28 @@ function SingleRelease(props) {
 
   return (
     <Wrapper>
-      <div className='release-container'>
-        <div className='item'>
+      <div className="release-container">
+        <div className="item">
           <img src={imageURL} className='image' alt={title} />
           <p className='description'>
             {description}
           </p>
-          <div>
+          <div className="link">
             <a target='_blank' href={buy} rel="noreferrer">
               Buy
             </a>
           </div>
-          <div>
+          <div className="link">
             <a target='_blank' href={stream} rel="noreferrer">
               Stream
             </a>
           </div>
-
-          <div>
+          <div className="link">
             <Link to="/releases"> Back To Releases</Link>
           </div>
         </div>
       </div>
-    </Wrapper >
+    </Wrapper>
   )
 }
 
@@ -46,8 +45,8 @@ const Wrapper = styled.div`
     .release-container .item {
       margin: 3px;
       padding: 5px 0 0 5px;
-    
     }
+    
     .release-container .item img {
       float:left;
       margin-right: 20px;
