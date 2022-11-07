@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import Artist from '../components/Artist'
 
 
-function Artists() {
+const Artists = () => {
   return (
     <Wrapper>
       <Artist />

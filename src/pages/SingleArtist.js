@@ -14,12 +14,12 @@ function SingleArtist() {
 
   return (
     <Wrapper>
-      <div className="artist-container">
+      <div className='artist-container'>
         <div className='item'>
           <div className='image'>
             <img className='artist' src={singleimageURL} alt={name} />
           </div>
-          <div className="description">
+          <div className='description'>
             <h3 className='name'>
               {name}
             </h3>
@@ -37,9 +37,8 @@ function SingleArtist() {
         </div>
         <Link className='link-back' to="/artists"> Back To Artists</Link>
       </span>
-
+      <h4> Releases by {name} </h4>
       <div className="matches">
-        <h4> Releases by {name} </h4>
         {releaseList.map(release => {
           const { imageURL, name, id, buy } = release;
           return (
@@ -108,6 +107,14 @@ const Wrapper = styled.div`
 
     .matches {
       margin-top:1em;
+      display: flex;
+      flex-direction: row;
+      justify-content: left;
+    }
+
+    .matches .image {
+      display: flex;
+      align-items: left;
     }
 `
 

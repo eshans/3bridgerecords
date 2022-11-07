@@ -5,7 +5,7 @@ import styled from "styled-components";
 function Artist() {
   return (
     <Wrapper>
-      <h2 className="header"> 3Bridge Artists </h2>
+      <h2 className="header">Artists </h2>
       <hr />
       <div className="content artists">
         {artists.map((artist, i) => (

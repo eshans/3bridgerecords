@@ -1,6 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-import Artist from '../components/Artist'
 
 const About = () => {
   return (
@@ -14,7 +13,6 @@ const About = () => {
           </p>
         </div>
       </Wrapper>
-      <Artist />
     </>
   )
 }
