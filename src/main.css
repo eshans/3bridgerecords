@@ -40,6 +40,7 @@ Variables
   --transition: all 0.3s linear;
   --spacing: 0.1rem;
   --radius: 0.25rem;
+  --bg-gradient : linear-gradient(to right, #434343 0%, black 100%);
   --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   --max-width: 1170px;
@@ -165,7 +166,7 @@ hr {
 
 .container {
   padding: .5em;
-  background-color: var(--clr-grey-4);
+  background-image: var(--bg-gradient);
   min-height: 100vh;
 }
 
@@ -192,7 +193,6 @@ nav {
   justify-content: space-between;
   padding: 1rem;
 }
-
 
 .nav-toggle {
   font-size: 1.5rem;

@@ -14,30 +14,31 @@ function SingleArtist() {
 
   return (
     <Wrapper>
-      <div className='artist-container'>
-        <div className='item'>
-          <div className='image'>
-            <img className='artist' src={singleimageURL} alt={name} />
+      <div className="artist-container">
+        <div className="item">
+          <div className="image">
+            <img className="artist" src={singleimageURL} alt={name} />
           </div>
-          <div className='description'>
-            <h3 className='name'>
+          <div className="description">
+            <h3 className="name">
               {name}
             </h3>
-            <p className='bio'>
+            <p className="bio">
               {bio}
             </p>
           </div>
         </div>
       </div>
+      <div className="holder">
       <span>
-        <div>
-          <a href={'https://soundcloud.com/' + soundcloud} target="_blank" rel="noreferrer">
-            Listen to {name}'s Soundcloud
-          </a>
-        </div>
-        <Link className='link-back' to="/artists"> Back To Artists</Link>
+        <a href={'https://soundcloud.com/' + soundcloud} target="_blank" rel="noreferrer">
+          Listen to {name}'s Soundcloud
+        </a>
+        <p>
+          <Link className="link-back" to="/artists"> Back To Artists</Link>
+        </p>
       </span>
-      <h4> Releases by {name} </h4>
+      <h4 className="section-header"> Releases by {name} </h4>
       <div className="matches">
         {releaseList.map(release => {
           const { imageURL, name, id, buy } = release;
@@ -49,6 +50,7 @@ function SingleArtist() {
             </div>
           )
         })}
+      </div>
       </div>
     </Wrapper>
   )
@@ -86,9 +88,8 @@ const Wrapper = styled.div`
 
     .item {
       background-color: transparent;
-      margin: 3px;
-      padding: 5px 0 0 5px;
-      flex: 1;
+      margin: 3px 10px 10px 10px;
+      padding: 5px 0 0 5px;      
       align-self: stretch;
     }
 
@@ -98,6 +99,14 @@ const Wrapper = styled.div`
       float:left;
       margin:0 15px 15px 0;
       max-height:70vh;
+    }
+
+    .holder {
+      margin-left:15px;
+    }
+
+    .section-header {
+      color:hsl(211, 27%, 70%);
     }
 
     .info {
