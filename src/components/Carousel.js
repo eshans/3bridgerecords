@@ -15,9 +15,9 @@ export default function Carousel() {
     <Wrapper>
       <div className="carousel">
         <Slider {...settings} >
-          <div><img src='http://placekitten.com/g/400/200' /></div>
-          <div><img src='http://placekitten.com/g/400/200' /></div>
-          <div><img src='http://placekitten.com/g/400/200' /></div>
+          <div><img src='http://placekitten.com/g/800/400' /></div>
+          <div><img src='http://placekitten.com/g/800/400' /></div>
+          <div><img src='http://placekitten.com/g/800/400' /></div>
         </Slider>
       </div>
     </Wrapper>
@@ -28,7 +28,7 @@ const Wrapper = styled.div`
     .sample {
     margin-left: auto;
     margin-right: auto;
-    width: 400px;
+    width: 800px;
 }
   .carousel {
     margin: 1rem;
