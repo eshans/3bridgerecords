@@ -29,8 +29,7 @@ const Release = () => {
 				{/* If array is at the end, hide button */}
 				{items.length < releases.length && (
 					<button onClick={loadMore} className="btn">
-						{" "}
-						SHOW MORE...{" "}
+						SHOW MORE...
 					</button>
 				)}
 			</div>
@@ -93,7 +92,7 @@ const Wrapper = styled.div`
 	}
 
 	.btn {
-		height: 5vh;
+		height: 30px;
 		background-color: blue;
 		border-radius: 4px;
 		border: none;
@@ -102,7 +101,7 @@ const Wrapper = styled.div`
 		width: 270px;
 		font-size: 16px;
 		font-weight: bold;
-		padding: 9px 0 1rem 0;
+		padding: 6px 0 1rem 0;
 	}
 `
 export default Release
