@@ -7,6 +7,8 @@ import releases from "../data/releases.json";
 import {Link} from 'react-router-dom'
 import rel1 from '../images/carousel/aroundsphere.jpg'
 import rel2 from '../images/carousel/ricoluv.jpg'
+import rel3 from '../images/carousel/deepwoodslove.jpg'
+
 
 
 
@@ -23,7 +25,7 @@ export default function Carousel() {
         <Slider {...settings} >
           <div><img src={rel1} height="500" width="500"/></div>
           <div><img src={rel2} height="500" width="500" /></div>
-          <div><img src='http://placekitten.com/g/500/500' /></div>
+          <div><img src={rel3} height="500" width="500" /></div>
         </Slider>
       </div>
     </Wrapper>
