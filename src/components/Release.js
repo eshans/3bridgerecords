@@ -26,7 +26,7 @@ const Release = () => {
         ))}
         {/* If array is at the end, hide button */}
         {items.length < releases.length &&
-          <button onClick={loadMore} className="btn" > Show more </button>
+          <button onClick={loadMore} className="btn" > SHOW MORE... </button>
         }
       </div>
     </Wrapper >
@@ -37,7 +37,7 @@ const Wrapper = styled.div`
     
     .release {
       display:grid;
-      grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       flex-wrap: wrap;
       margin:2rem 0 1rem 30px;
     }
@@ -92,6 +92,8 @@ const Wrapper = styled.div`
       outline: none;
       color:#fff;
       width:270px;
+      font-size:16px;
+      padding: 1rem 0 1rem 0;
     }
 `
 export default Release;

@@ -19,13 +19,12 @@ export default function Carousel() {
   }
 
   return (
-    
     <Wrapper>
       <div className="carousel">  
         <Slider {...settings} >
-          <div><img src={rel1} height="500" width="500"/></div>
-          <div><img src={rel2} height="500" width="500" /></div>
-          <div><img src={rel3} height="500" width="500" /></div>
+          <div><img src={rel1} height="300" width="300"/></div>
+          <div><img src={rel2} height="300" width="300" /></div>
+          <div><img src={rel3} height="300" width="300" /></div>
         </Slider>
       </div>
     </Wrapper>
@@ -36,7 +35,7 @@ const Wrapper = styled.div`
   .sample {
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
+    width: 300px;
 }
   .carousel {
     margin: 1rem;

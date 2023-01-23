@@ -165,14 +165,14 @@
   },
   {
     "id": 14,
-    "artistID": "DW",
-    "featuredartists": "ES, FG",
-    "imageURL": "../images/releases/deepwoodslove.jpg",
+    "artistID": "BG",
+    "featuredartists": "",
+    "imageURL": "../images/releases/kaleidoscope.jpg",
     "title": "L.O.V.E",
-    "description": "Released 2020",
-    "artist": "Deep Woods",
-    "buy": "https://www.beatport.com/release/we-choose/1916121",
-    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+    "description": "Released 2019",
+    "artist": "Begona",
+    "buy": "https://www.beatport.com/release/kaleidoscope/2558898",
+    "stream": "https://open.spotify.com/album/4VnNrl8RVASPfaGH5IJHTx?si=dJLnqaJZR0m-IodDp6iR8Q"
   },
   {
     "id": 15,
@@ -238,6 +238,17 @@
     "description": "Released 2020",
     "artist": "Deep Woods",
     "buy": "https://www.beatport.com/release/we-choose/1916121",
+    "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
+  },
+  {
+    "id": 21,
+    "artistID": "ES, FG",
+    "featuredartists": "ES, FG",
+    "imageURL": "../images/releases/aroundsphere.jpg",
+    "title": "Around the Sphere",
+    "description": "Released 2023",
+    "artist": "Gatto & Eric Shans",
+    "buy": "https://www.beatport.com/release/around-the-sphere/3977730",
     "stream": "https://open.spotify.com/album/4cutoknbgciTGGpAYSZXfK?si=gsNvR6ytTN6KdrPORfSLOg"
   }
 ]
