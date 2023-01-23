@@ -1,11 +1,8 @@
-import '../main.css'
-import Release from '../components/Release';
-
+import "../main.css"
+import Release from "../components/Release"
 
 function Releases() {
-  return (
-      <Release />
-  )
+	return <Release />
 }
 
 export default Releases
