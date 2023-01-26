@@ -11,7 +11,9 @@ function Artist() {
 				{artists.map((artist, i) => (
 					<div className="item" key={i}>
 						<Link to={`/artist/${artist.id}`}>
-							<span className="name">{artist.name} </span>
+							<div className="image">
+								<img src={artist.imageURL} alt={artist.name} />
+							</div>
 						</Link>
 					</div>
 				))}
@@ -22,7 +24,9 @@ function Artist() {
 
 const Wrapper = styled.div`
 	img {
-		width: 220px;
+		width: 250px;
+		height: 250px;
+		object-fit: cover;
 	}
 
 	.header {
@@ -30,12 +34,10 @@ const Wrapper = styled.div`
 	}
 
 	.content.artists {
-		display: flex;
-		flex-direction: row;
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 		flex-wrap: wrap;
-		text-align: left;
-		text-transform: uppercase;
-		align-items: left;
+		margin: 2rem 0 1rem 30px;
 	}
 
 	.item {
@@ -56,20 +58,6 @@ const Wrapper = styled.div`
 
 	.name {
 		font-size: 2rem;
-	}
-
-	@media screen and (max-width: 800px) {
-		.image {
-			display: none;
-		}
-
-		.content.artists {
-			margin-left: 10px;
-		}
-
-		.name {
-			font-size: 1.5rem;
-		}
 	}
 `
 export default Artist

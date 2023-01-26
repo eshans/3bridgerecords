@@ -22,95 +22,83 @@ const Contact = () => {
 
 	return (
 		<Wrapper>
+			<h2> Fill out the below form and get in touch!</h2>
 			<form
 				action={FORM_ENDPOINT}
 				onSubmit={handleSubmit}
 				method="POST"
 				target="_blank">
-				<div className="name">
-					<input type="text" placeholder="Your name" name="name" required />
-				</div>
-				<div className="email">
-					<input type="email" placeholder="Email" name="email" required />
-				</div>
-				<div className="message">
-					<textarea placeholder="Your message" name="message" required />
-				</div>
-				<div className="submit">
-					<button type="submit"> Send a message </button>
-				</div>
+				<input
+					name="name"
+					type="text"
+					className="feedback-input"
+					placeholder="Name"
+				/>
+				<input
+					name="email"
+					type="text"
+					className="feedback-input"
+					placeholder="Email"
+				/>
+				<textarea
+					name="text"
+					className="feedback-input"
+					placeholder="Com  ment"></textarea>
+				<input type="submit" value="SUBMIT" />
 			</form>
 		</Wrapper>
 	)
 }
-
 const Wrapper = styled.div`
 	form {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-    height:auto;
-    overflow:hidden;
-    border-radius:10px;
-}
+		max-width: 420px;
+		margin: 50px auto;
 	}
 
-	form label {
-		font-size: 14px;
-		color: darkgray;
-		cursor: pointer;
-	}
-
-	form label,
-	form input {
-		float: left;
-		clear: both;
-	}
-
-	form input, textarea {
-		margin: 15px 0;
-		padding: 15px 10px;
-		width: 100%;
-		outline: none;
-		border: 1px solid #bbb;
-		border-radius: 20px;
-		display: inline-block;
-		-webkit-box-sizing: border-box;
-		-moz-box-sizing: border-box;
-		box-sizing: border-box;
-		-webkit-transition: 0.2s ease all;
-		-moz-transition: 0.2s ease all;
-		-ms-transition: 0.2s ease all;
-		-o-transition: 0.2s ease all;
-		transition: 0.2s ease all;
-	}
-
-	form input[type="text"]:focus,
-	form input[type="password"]:focus {
-		border-color: cornflowerblue;
-	}
-
-	input[type="submit"] {
-		padding: 15px 50px;
-		width: auto;
-		background: #1abc9c;
-		border: none;
+	.feedback-input {
 		color: white;
+		font-family: Helvetica, Arial, sans-serif;
+		font-weight: 500;
+		font-size: 18px;
+		border-radius: 5px;
+		line-height: 22px;
+		background-color: transparent;
+		border: 2px solid #cc6666;
+		transition: all 0.3s;
+		padding: 13px;
+		margin-bottom: 15px;
+		width: 100%;
+		box-sizing: border-box;
+		outline: 0;
+	}
+
+	.feedback-input:focus {
+		border: 2px solid #cc4949;
+	}
+
+	textarea {
+		height: 150px;
+		line-height: 150%;
+		resize: vertical;
+	}
+
+	[type="submit"] {
+		font-family: "Montserrat", Arial, Helvetica, sans-serif;
+		width: 100%;
+		background: #cc6666;
+		border-radius: 5px;
+		border: 0;
 		cursor: pointer;
-
-		-webkit-transition: 0.2s ease all;
-		-moz-transition: 0.2s ease all;
-		-ms-transition: 0.2s ease all;
-		-o-transition: 0.2s ease all;
-		transition: 0.2s ease all;
+		color: white;
+		font-size: 24px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		transition: all 0.3s;
+		margin-top: -4px;
+		font-weight: 700;
 	}
-
-	input[type="submit"]:hover {
-		opacity: 0.8;
-	}
-
-	input[type="submit"]:active {
-		opacity: 0.4;
+	[type="submit"]:hover {
+		background: #cc4949;
 	}
 `
 export default Contact

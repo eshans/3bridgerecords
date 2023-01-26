@@ -1,173 +1,173 @@
 [
-  {
-    "id": 0,
-    "artistID": "ES",
-    "imageURL": "./images/artists/ericblue.jpg",
-    "singleimageURL": "../images/artists/ericblue.jpg",
-    "name": "ERIC SHANS",
-    "bio": "A producer and DJ residing in Brooklyn, NY, Eric Shans has been making and playing music for almost 20 years. He has always been influenced by melodic, dreamy sounds which have a smattering of grit underneath. Both under the synth pop sounding monikers Phenotract and Fermion (a duo), and under his own name, he has many releases and remixes that span the genres of deep house, tech house, techno, and ambient. The music he makes is truly reflective of the sounds he loves to hear; forward thinking and at times, wrapped in a sense of nostalgia. His DJ sets are also an embodiment of this as well, combining ethereal vocals, driving and dirty bass lines, and moving melodies for the heart, feet, and mind. He's played for years across many venues in the NYC area, including TBA Brooklyn, Cielo, Louie and Chan, various loft and private parties, and more. Eric also co-runs the labels 3Bridge Records and 3Bridge Elements based in Brooklyn and is one of the founders of the inTRANSIT parties which take place in New York City mainly at TBA Brooklyn, one of the borough's best underground clubs.",
-    "soundcloud": "eric-shans"
-  },
-  {
-    "id": 1,
-    "artistID": "DW",
-    "imageURL": "./images/artists/deepwoods.jpg",
-    "singleimageURL": "../images/artists/deepwoods.jpg",
-    "name": "DEEP WOODS",
-    "bio": "Since the 1990s Greg Cuoco aka Deep Woods has been cultivating his sound from New York City's many environments. Residing in Brooklyn where a vast series of urban landscapes bring forth many different feelings and emotions has allowed Deep Woods to incorporate these elements into his music. Native to NYC, he has combined the experience of NYC in the 1990s and today into sonic soundscapes that evoke emotion on the dance floor. Influenced by the soul, funk & disco of the '70s and the house music of the '90s, Deep Woods has unleashed a signature sound DJing in clubs since 1990 both in NYC and abroad. Always evolving, the sound of a Deep Woods production has changed over the years transporting you to a deep, rhythmic, mysterious forest the resides within your mind and your soul. Be prepared to experience the journey that is Deep Woods.",
-    "soundcloud": "deep-woods"
-  },
-  {
-    "id": 2,
-    "artistID": "BB",
-    "imageURL": "./images/artists//brianburnside.jpg",
-    "singleimageURL": "../images/artists/brianburnside.jpg",
-    "name": "BRIAN BURNSIDE",
-    "bio": "If anyone knows how to push the limits of house music, it's Brian Burnside. Born and raised in Brooklyn, Brian is the co-founder, Producer, DJ and Graphic Designer of the record label Deepa Grooves. If you've ever heard Brian DJ, you would understand how every facet of his life has been devoted to the feeling, attitude, and deep mentality of NYC's thriving house music culture. As a DJ, Brian's mix of soulful highs and deep-tech thumps can bring a crowd to near-rapture, while maintaining tight rhythms and perfect harmonies.",
-    "soundcloud": "brianburnsidemusic"
-  },
-  {
-    "id": 3,
-    "artistID": "SU",
-    "imageURL": "./images/sumsuch.jpg",
-    "singleimageURL": "../images/artists/sumsuch.jpg",
-    "name": "SUMSUCH",
-    "bio": "Will Sumsuch has been a musician, producer and DJ for over a decade, gathering both a grass roots fan- base and industry respect, due to his unique ear for quality music and distinctive production style. His tracks have been used on national TV adverts in the UK, played on radio worldwide, and released on countless compilation albums. His first two releases on Urban Torque recordings received support from luminaries including Ben Watt, Justin Martin, Jody Wisternoff & Allister Whitehead. Will's remixes have been released on Hed Kandi and Time Records among others",
-    "soundcloud": "sumsuch"
-  },
-  {
-    "id": 4,
-    "artistID": "JO",
-    "imageURL": "./images/artists/djjoma.jpg",
-    "singleimageURL": "../images/artists/djjoma.jpg",
-    "name": "DJ JOMA",
-    "bio": "Biographies are not a thing that I like to read, especially DJ ones. Most of them come with the “I have loved music since I was a baby…”, “House Music was love at first sight (or hearing)… So don't worry, because I'm not going to make it sound like being booked by the Top 10 best Night-clubs ever every night. I'm not going to say how I only play because of my deep love for music. That's not what you are going to read here. I'll say that I have been producing tracks as of late with a very talented vocalist, Moon Aton, and we have tracks on a few labels such as Be Adult, Color & Pitch, and now 3Bridge Records. And with DJing, simply, for me, it's all about mood and a deep, hypnotic groove… playing and producing those tracks that get you tapping your feet and nodding your head without you realizing it, regardless of genre, tempo, style, or release date.",
-    "soundcloud": "jomadjay"
-  },
-  {
-    "id": 5,
-    "artistID": "PA",
-    "imageURL": "./images/peteahern.jpg",
-    "singleimageURL": "../images/artists/peteahern.jpg",
-    "name": "PETE AHERN",
-    "bio": "Starting out as a DJ back in 2000 Pete has grown into a producer, releasing tracks on Prison Entertainment & Piso Records. He has also become a prominent promoter for exclusive underground DJ events held in unique settings all over Nantucket (The Nantucket Whaling museum, The Nantucket Dreamland and Underground Locations). Pete has DJed, promoted and organized parties for people like Nightmares On Wax, Ali Shaheed Muhammad (a tribe called quest), Rob Garza (Thievery Corporation), Andhim and Nickodemus.In the coming years the plans are to keep it going. Bringing amazing A-List acts DJ / Producer talent in fitting locations on Nantucket that the fans and talent deserve.",
-    "soundcloud": "devlin75"
-  },
-  {
-    "id": 6,
-    "artistID": "ED",
-    "imageURL": "./images/elliot.jpg",
-    "singleimageURL": "../images/artists/elliot.jpg",
-    "name": "ELLIOT DEHOYOS",
-    "bio": "Elliot DeHoyos has been uplifting crowds with his live DJ sets and original productions for the past twenty years; always pushing the boundaries and continually advancing the underground music scene. As a DJ, DeHoyos is known for his intricate and sophisticated mixing. He seamlessly blends a range of styles, from tech house to tribal, Techno to deep house. The common denominator is a driving, unforgettable percussive rhythm; one that reverberates a global sound. Elliot's talents have earned him residencies at New York institutions, such as XL Lounge, Avalon NY, Club Deep and SBNY, as well as regular appearances at The Tunnel, Twilo, Limelight, Centro-Fly, BLVD, Club Love, Roxy, Rise (Boston), and Twist (Miami). His skills have also landed him international gigs at Phoenix (Sydney, Australia), Embassy (Manila, Philippines), Terminal Night Club (Quebec City) and Circus (Montreal).",
-    "soundcloud": "elliot-dehoyos"
-  },
-  {
-    "id": 7,
-    "artistID": "DH",
-    "imageURL": "./images/dadhaus.jpg",
-    "singleimageURL": "../images/artists/dadhaus.jpg",
-    "name": "DADHAUS",
-    "bio": "Dadhaus is two music obsessives touched by the hand of the rave and seeking to rekindle the simple love of analog synths, glow sticks, and hands in the air. What are you on and where are you from?",
-    "soundcloud": "dadhaus"
-  },
-  {
-    "id": 8,
-    "artistID": "MR",
-    "imageURL": "./images/artists/markryal.jpg",
-    "singleimageURL": "../images/artists/markryal.jpg",
-    "name": "MARK RYAL",
-    "bio": "Dj and music producer at:Colour and Pitch Records Brighton, Ante Records Chicago, Xenology Records Scotland, Voyeur Music Madrid, We Are Minder Scotland, Wildtrackin Records Germany.Long at the forefront of the underground scene Mark has been djing for more than 27 years. Over the course of his career including his years at the Sub Club and The Nitsa Club Mark not only played alongside the other residents Harri, Domenic Cappello, Twitch and Oscar but also alongside nearly every notable DJ of the last 25 years.Mark has shared the turntables with them all; Derrick May, Juan Atkins, Blake Baxter, Mr Fingers, Stacey Pullen, Claude Young, Joshua, Gene Farris, DJ Rush, Cajmere, Gemini, DJ Sneak, Dan Curtin, Richie Hawtin, Darren Emmerson, Slam, Mark Broom, Funk d ́Void, Ralph Lawson, Kenny Hawkes, DJ Q, Joey Beltram, Baby Ford, Ian Pooley, Evil Eddie Richards, Darren Price, Faze Action, Kevin Saunderson, Schatrax, James Holroyd, Surgeon, The Advent, Carl Craig, Chez Damier, Johnny Fiasco, DJ Deep, Green Velvet, Steve Bug, Tom Middleton, Derrick Carter, Stevie Donaldson, Mr C, Larry Heard, Peter and Rene from Chain Reaction, Simon DK, Josh Brent, Nigel Hayes, Dj Dimitri, Luke Slater, Dave Angel, Dave Clarke even a memorable night with Dj Duke (at a house party in his flat in Glasgow) and many many more. He has held residencies in two of the most important clubs in their respective countries The Sub Club and The Nitsa Club and been at the forefront of pushing the Underground agenda wherever he plays. Currently Mark is resident Dj at Indeep, Science, Black Out and Horizontal. All nights where he continues to explore the deeper side of electronic music, playing his Detroit influenced house and techno.",
-    "soundcloud": "mark-ryal"
-  },
-  {
-    "id": 9,
-    "artistID": "RI",
-    "imageURL": "./images/rico2.jpg",
-    "singleimageURL": "../images/artists/rico2.jpg",
-    "name": "RICCICOMOTO",
-    "bio": "MUSICPRODUCTION: riccicomoto (enrico regini) is a well known DJ and producer living in Ibiza...for the last few years he's grooved in clubs and festivals with his special and unique sound... ...always on the lookout for something out of the ordinary, the special sound, with the provided musical repertoire, which is varied, unusual and distinguishes his sound......as a producer his special interest is the electronic variety of jazz, soul and the cinematic sounds...but also ambient, break beat, dub, trip hop, down tempo, electronica and deep house tunes are included in his repertoire...his productions mix established and transformed genre and go sometimes in a new symbiosis direction......he has been experimenting with a computer, different sound machines and a 22 year old Yamaha organ to create a sound that's very original...which he then tests on non suspecting listeners in clubs and events......up until now he has had no complaints...or casualties...IBIZA GLOBAL RADIO: since august 2007 Riccicomoto has got his own international weekly radio show at 'Ibiza Gobal Radio'...this is one of the most important european radio stations for club-culture and electronic media... ...the show called 'Riccicomoto ́s audio self defence' is running every saturday at 3PM...his DJ sets are always diversified...often a mix of casual-jazz and cliff - hanging score-tunes...gliding over with perfect dub-techniques and roof raising bass lines to initiate the ultimate electrodubtechjazz experience... ...riccicomoto's sound is never intrusive...you will feel just fine, movin' your ass at the dancefloor...or head nodding taking a drink at the bar...so just come around... http://riccicomoto.de.",
-    "soundcloud": "riccicomoto"
-  },
-  {
-    "id": 10,
-    "artistID": "EI",
-    "imageURL": "./images/eisenheim.jpg",
-    "singleimageURL": "../images/artists/eisenheim.jpg",
-    "name": "EISENHEIM",
-    "bio": "The Eisenheim's frequential quintessence tale goes back into a large gamut of mind facts, chances and choices giving, thus, the feeling to listen to stories within an order of notes, songs and words. This is the moment to decide to enter in a different universe so that you give yourselves the opportunity to transmit another perspective of things, Materia, and unity.",
-    "soundcloud": "eisenheimusic"
-  },
-  {
-    "id": 11,
-    "artistID": "BG",
-    "imageURL": "./images/begona.jpg",
-    "singleimageURL": "../images/artists/begona.jpg",
-    "name": "BEGONA",
-    "bio": "Begoña is one half of New York's renowned producer and DJ duo Sleepy & Boo, and she is proudly making her solo recording debut on 3Bridge Elements and 3Bridge Records. Her Horizons EP marks an evolution of Begoña's deep interest in meditation, spirituality and consciousness, expanding on the 20-minute meditation soundtrack paths she has been releasing over the last year. Begoña's music explores more contemplative grooves, inspired by nature and stillness, incorporating elements of downtempo, dub, ambient and balearic vibes. She is a firm believer that music has the power to heal, transform and connect the world and all individuals."
-  },
-  {
-    "id": 12,
-    "artistID": "CS",
-    "imageURL": "./images/companyss.png",
-    "singleimageURL": "../images/artists/companyss.png",
-    "name": "THE COMPANY SOUNDSYSTEM",
-    "bio": "The Company Soundsystem emerged from Brooklyn's underground house scene and has made a name for himself with incendiary live sets and genre-crossing original tracks on labels Nite Grooves (NYC), LTHM (San Francisco) and 3Bridge Records (NYC)."
-  },
-  {
-    "id": 13,
-    "artistID": "SL",
-    "imageURL": "./images/slava.jpg",
-    "singleimageURL": "../images/artists/slava.jpg",
-    "name": "SLAV-KA",
-    "bio": "Not content with being merely a left brain-er, Slav Ka has searched for a creative outlet of his right brain activity and found it with electronic music production.  Self-taught and curious by nature yet anchored by the experience of a life long music aficionado, his sound attempts at walking the line between playful experimentation of a novice and rigid demands for dance orthodoxy of a jaded raver."
-  },
-  {
-    "id": 14,
-    "imageURL": "./images/shakib.jpg",
-    "singleimageURL": "../images/artists/shakib.jpg",
-    "artistID": "SJ",
-    "name": "SHAKIB JAKIR",
-    "bio": "Shakib Jakir started his musical journey at a very young age. He grew up learning Indian classical music at the age of 4 playing harmony with his father. For years he played the bass, but his love for dark and heavy bass lines, and the melodic synth pads of house & techno drew him to produce his own electronic music. He learned music production from some of his very close and talented friends, but his unique sound and production style came so naturally that he has since then taken his own path.  Now 2 years into his passion, Shakib has released tracks on Incepto Bundles, Absurd State, Inmost Records, Aeriform Records, and 3Bridge Records."
-  },
-  {
-    "id": 15,
-    "artistID": "TC",
-    "imageURL": "./images/artists/tonycrawm.jpg",
-    "singleimageURL": "../images/artists/tonycrawm.jpg",
-    "name": "TONY CRAWM",
-    "bio": "Tony Crawm is a young and lively Dj/Producer that was born in Málaga, Spain in 1984. In 2004 his passion for music drew  him into the world of electronics, collaborating on Electro House,Tech House and House festivals. During the first years he was strongly influenced by great Spanish DJs like Iván Pica, David Penn, Miguel Picasso and Dj Chus, as well as by Stefano Noferini,Thomas Gold, DJ loko, Jay Lumen, Filthy Rich and Umek on the international scene. 2007 was the key year for developing his musical style, when he started doing his own performances and mixes, along with the desire of experimenting with professional advanced software.  This is how Tony Crawm was born as we know him today. Since 2009 he has been performing his own sessions without a break, working on events and festivals, giving priority to rhythms, strength and originality. In 2010 we worked as a promoter for House/Tech House festivals in local and public spaces as Sala Liquid Brains (Málaga), Café Lounge Almora (Málaga), and started as a resident DJ for Disco Parthenon (Torremolinos). In 2012, after two years of successful events, he started revealing himself as a DJ with a sharp ear skilled in catching the latest trends that he brings into his works without stridency and where elegance is dominant. His house, tech house, and techno sessions speak for themselves and show us a DJ and producer in top form with plenty of history ahead to write."
-  },
-  {
-    "id": 16,
-    "artistID": "SB",
-    "imageURL": "./images/artists/sleepyboo.jpg",
-    "singleimageURL": "../images/artists/sleepyboo.jpg",
-    "name": "SLEEPY & BOO",
-    "bio": "Sleepy & Boo's undying passion for underground music pervades everything they do. As DJs, this duo have become essential figures in the Big Apple’s dynamic music scene. They have left their mark on countless dancefloors of all shapes and sizes, rocking rooms both big and small across New York City and beyond. Their sets are all about the groove, mixing together the best tracks from across the musical spectrum, hand-selecting the choicest cuts to create an unmatched vibe and atmosphere. Whether supporting some of the world’s biggest DJs, or crafting their own headlining sets, Sleepy & Boo are known for their musical diversity and knack for picking the right tracks at the right moment. \n2015 marked a new phase for Sleepy & Boo, who entered into the production arena with the release of their own original music. 'The 17th Floor' EP on New York's esteemed Nervous Records marked their production debut. That was followed up by 'The Highway EP' on Nervous, plus EPs on New York's techno upstart De-Noize Records, Italy's Lapsus Music, Romania's Quanticman Records, the UK's Savoir Faire Musique, and SF's Moulton Music. Their productions reflect their DJing style: wide-ranging, dancefloor-driven tracks that cover emotions and energy from dark to light. Apart from their own events, the duo is consistently DJing at some of the best parties, venues and festivals around the world."
-  },
-  {
-    "id": 17,
-    "artistID": "FG",
-    "imageURL": "./images/artists/gatto.jpg",
-    "singleimageURL": "../images/artists/gatto.jpg",
-    "name": "GATTO",
-    "bio": "Gatto is a purveyor of the arts who's been deeply involved in the NYC arts scene for nearly two decades. Through the organization he founded in the early 2000s- Art for Progress (AFP), he produced over 50 major art & music events from NYC to Miami and San Francisco. While running AFP, Gatto was also pursuing his own creative endeavors- spinning vinyl at underground parties in downtown NYC. People started noticing him among the city’s dance music world, and his high energy style garnered attention in the scene. Soon after, he was offered gigs to play opening sets for some of the bigger names in dance music at the underground clubs and bigger rooms across NYC. Opening for Derrick Carter at Sleepy + Boo’s party at Sullivan Room, and playing the main floor at Crobar set the stage for bigger things. Opportunities to travel to San Francisco to play at 1015 Folsum and Miami’s WMC alongside the likes of Josh Wink, Tommie Sunshine and Andy Caldwell followed. Back at home, Gatto maintained his presence in the art scene playing at NYC’s Fashion Week shows, magazine launch parties and underground art parties. After countless hours working in the studio, Gatto’s first release, “Deep Twist” came out on Brooklyn’s 3 Bridge Records in 2016. In early 2017, Gatto's next release, “Spaced Invaders” was lauded by DJ Mag Espana as the highlight of Flemcy Music’s “Brighton” compilation. With the success of “Spaced Invaders” the label released an EP with remixes later that year. Gatto’s refusal to fit into a certain style and his desire to let the creative process drive his productions, have led to releases on diverse labels such as Deep Sessions, BQ Recordings and Spain’s deep house imprint Soleid Music. Gatto’s dance remake of the classic “Cherokee People” released on Soleid in 2019 has become a fan favorite on Spotify. He continues to be prolific and produce a lot of music while throwing his own events."
-  },
-  {
-    "id": 17,
-    "artistID": "FG",
-    "imageURL": "./images/artists/gatto.jpg",
-    "singleimageURL": "../images/artists/gatto.jpg",
-    "name": "GATTO",
-    "bio": "Gatto is a purveyor of the arts who's been deeply involved in the NYC arts scene for nearly two decades. Through the organization he founded in the early 2000s- Art for Progress (AFP), he produced over 50 major art & music events from NYC to Miami and San Francisco. While running AFP, Gatto was also pursuing his own creative endeavors- spinning vinyl at underground parties in downtown NYC. People started noticing him among the city’s dance music world, and his high energy style garnered attention in the scene. Soon after, he was offered gigs to play opening sets for some of the bigger names in dance music at the underground clubs and bigger rooms across NYC. Opening for Derrick Carter at Sleepy + Boo’s party at Sullivan Room, and playing the main floor at Crobar set the stage for bigger things. Opportunities to travel to San Francisco to play at 1015 Folsum and Miami’s WMC alongside the likes of Josh Wink, Tommie Sunshine and Andy Caldwell followed. Back at home, Gatto maintained his presence in the art scene playing at NYC’s Fashion Week shows, magazine launch parties and underground art parties. After countless hours working in the studio, Gatto’s first release, “Deep Twist” came out on Brooklyn’s 3 Bridge Records in 2016. In early 2017, Gatto's next release, “Spaced Invaders” was lauded by DJ Mag Espana as the highlight of Flemcy Music’s “Brighton” compilation. With the success of “Spaced Invaders” the label released an EP with remixes later that year. Gatto’s refusal to fit into a certain style and his desire to let the creative process drive his productions, have led to releases on diverse labels such as Deep Sessions, BQ Recordings and Spain’s deep house imprint Soleid Music. Gatto’s dance remake of the classic “Cherokee People” released on Soleid in 2019 has become a fan favorite on Spotify. He continues to be prolific and produce a lot of music while throwing his own events."
-  },
-  {
-    "id": 18,
-    "artistID": "RW",
-    "imageURL": "./images/artists/gatto.jpg",
-    "singleimageURL": "../images/artists/gatto.jpg",
-    "name": "RICK WADE",
-    "bio": "Gatto is a purveyor of the arts who's been deeply involved in the NYC arts scene for nearly two decades. Through the organization he founded in the early 2000s- Art for Progress (AFP), he produced over 50 major art & music events from NYC to Miami and San Francisco. While running AFP, Gatto was also pursuing his own creative endeavors- spinning vinyl at underground parties in downtown NYC. People started noticing him among the city’s dance music world, and his high energy style garnered attention in the scene. Soon after, he was offered gigs to play opening sets for some of the bigger names in dance music at the underground clubs and bigger rooms across NYC. Opening for Derrick Carter at Sleepy + Boo’s party at Sullivan Room, and playing the main floor at Crobar set the stage for bigger things. Opportunities to travel to San Francisco to play at 1015 Folsum and Miami’s WMC alongside the likes of Josh Wink, Tommie Sunshine and Andy Caldwell followed. Back at home, Gatto maintained his presence in the art scene playing at NYC’s Fashion Week shows, magazine launch parties and underground art parties. After countless hours working in the studio, Gatto’s first release, “Deep Twist” came out on Brooklyn’s 3 Bridge Records in 2016. In early 2017, Gatto's next release, “Spaced Invaders” was lauded by DJ Mag Espana as the highlight of Flemcy Music’s “Brighton” compilation. With the success of “Spaced Invaders” the label released an EP with remixes later that year. Gatto’s refusal to fit into a certain style and his desire to let the creative process drive his productions, have led to releases on diverse labels such as Deep Sessions, BQ Recordings and Spain’s deep house imprint Soleid Music. Gatto’s dance remake of the classic “Cherokee People” released on Soleid in 2019 has become a fan favorite on Spotify. He continues to be prolific and produce a lot of music while throwing his own events."
-  }
+	{
+		"id": 0,
+		"artistID": "ES",
+		"imageURL": "./images/artists/ericblue.jpg",
+		"singleimageURL": "../images/artists/ericblue.jpg",
+		"name": "ERIC SHANS",
+		"bio": "A producer and DJ residing in Brooklyn, NY, Eric Shans has been making and playing music for almost 20 years. He has always been influenced by melodic, dreamy sounds which have a smattering of grit underneath. Both under the synth pop sounding monikers Phenotract and Fermion (a duo), and under his own name, he has many releases and remixes that span the genres of deep house, tech house, techno, and ambient. The music he makes is truly reflective of the sounds he loves to hear; forward thinking and at times, wrapped in a sense of nostalgia. His DJ sets are also an embodiment of this as well, combining ethereal vocals, driving and dirty bass lines, and moving melodies for the heart, feet, and mind. He's played for years across many venues in the NYC area, including TBA Brooklyn, Cielo, Louie and Chan, various loft and private parties, and more. Eric also co-runs the labels 3Bridge Records and 3Bridge Elements based in Brooklyn and is one of the founders of the inTRANSIT parties which take place in New York City mainly at TBA Brooklyn, one of the borough's best underground clubs.",
+		"soundcloud": "eric-shans"
+	},
+	{
+		"id": 1,
+		"artistID": "DW",
+		"imageURL": "./images/artists/deepwoods.jpg",
+		"singleimageURL": "../images/artists/deepwoods.jpg",
+		"name": "DEEP WOODS",
+		"bio": "Since the 1990s Greg Cuoco aka Deep Woods has been cultivating his sound from New York City's many environments. Residing in Brooklyn where a vast series of urban landscapes bring forth many different feelings and emotions has allowed Deep Woods to incorporate these elements into his music. Native to NYC, he has combined the experience of NYC in the 1990s and today into sonic soundscapes that evoke emotion on the dance floor. Influenced by the soul, funk & disco of the '70s and the house music of the '90s, Deep Woods has unleashed a signature sound DJing in clubs since 1990 both in NYC and abroad. Always evolving, the sound of a Deep Woods production has changed over the years transporting you to a deep, rhythmic, mysterious forest the resides within your mind and your soul. Be prepared to experience the journey that is Deep Woods.",
+		"soundcloud": "deep-woods"
+	},
+	{
+		"id": 2,
+		"artistID": "BB",
+		"imageURL": "./images/artists//brianburnside.jpg",
+		"singleimageURL": "../images/artists/brianburnside.jpg",
+		"name": "BRIAN BURNSIDE",
+		"bio": "If anyone knows how to push the limits of house music, it's Brian Burnside. Born and raised in Brooklyn, Brian is the co-founder, Producer, DJ and Graphic Designer of the record label Deepa Grooves. If you've ever heard Brian DJ, you would understand how every facet of his life has been devoted to the feeling, attitude, and deep mentality of NYC's thriving house music culture. As a DJ, Brian's mix of soulful highs and deep-tech thumps can bring a crowd to near-rapture, while maintaining tight rhythms and perfect harmonies.",
+		"soundcloud": "brianburnsidemusic"
+	},
+	{
+		"id": 3,
+		"artistID": "SU",
+		"imageURL": "./images/artists/sumsuch.jpg",
+		"singleimageURL": "../images/artists/sumsuch.jpg",
+		"name": "SUMSUCH",
+		"bio": "Will Sumsuch has been a musician, producer and DJ for over a decade, gathering both a grass roots fan- base and industry respect, due to his unique ear for quality music and distinctive production style. His tracks have been used on national TV adverts in the UK, played on radio worldwide, and released on countless compilation albums. His first two releases on Urban Torque recordings received support from luminaries including Ben Watt, Justin Martin, Jody Wisternoff & Allister Whitehead. Will's remixes have been released on Hed Kandi and Time Records among others",
+		"soundcloud": "sumsuch"
+	},
+	{
+		"id": 4,
+		"artistID": "JO",
+		"imageURL": "./images/artists/djjoma.jpg",
+		"singleimageURL": "../images/artists/djjoma.jpg",
+		"name": "DJ JOMA",
+		"bio": "Biographies are not a thing that I like to read, especially DJ ones. Most of them come with the “I have loved music since I was a baby…”, “House Music was love at first sight (or hearing)… So don't worry, because I'm not going to make it sound like being booked by the Top 10 best Night-clubs ever every night. I'm not going to say how I only play because of my deep love for music. That's not what you are going to read here. I'll say that I have been producing tracks as of late with a very talented vocalist, Moon Aton, and we have tracks on a few labels such as Be Adult, Color & Pitch, and now 3Bridge Records. And with DJing, simply, for me, it's all about mood and a deep, hypnotic groove… playing and producing those tracks that get you tapping your feet and nodding your head without you realizing it, regardless of genre, tempo, style, or release date.",
+		"soundcloud": "jomadjay"
+	},
+	{
+		"id": 5,
+		"artistID": "PA",
+		"imageURL": "./images/artists/peteahern.jpg",
+		"singleImageURL": "../images/artists/peteahern.jpg",
+		"name": "PETE AHERN",
+		"bio": "Starting out as a DJ back in 2000 Pete has grown into a producer, releasing tracks on Prison Entertainment & Piso Records. He has also become a prominent promoter for exclusive underground DJ events held in unique settings all over Nantucket (The Nantucket Whaling museum, The Nantucket Dreamland and Underground Locations). Pete has DJed, promoted and organized parties for people like Nightmares On Wax, Ali Shaheed Muhammad (a tribe called quest), Rob Garza (Thievery Corporation), Andhim and Nickodemus.In the coming years the plans are to keep it going. Bringing amazing A-List acts DJ / Producer talent in fitting locations on Nantucket that the fans and talent deserve.",
+		"soundcloud": "devlin75"
+	},
+	{
+		"id": 6,
+		"artistID": "ED",
+		"imageURL": "./images/artists/elliot.jpg",
+		"singleimageURL": "../images/artists/elliot.jpg",
+		"name": "ELLIOT DEHOYOS",
+		"bio": "Elliot DeHoyos has been uplifting crowds with his live DJ sets and original productions for the past twenty years; always pushing the boundaries and continually advancing the underground music scene. As a DJ, DeHoyos is known for his intricate and sophisticated mixing. He seamlessly blends a range of styles, from tech house to tribal, Techno to deep house. The common denominator is a driving, unforgettable percussive rhythm; one that reverberates a global sound. Elliot's talents have earned him residencies at New York institutions, such as XL Lounge, Avalon NY, Club Deep and SBNY, as well as regular appearances at The Tunnel, Twilo, Limelight, Centro-Fly, BLVD, Club Love, Roxy, Rise (Boston), and Twist (Miami). His skills have also landed him international gigs at Phoenix (Sydney, Australia), Embassy (Manila, Philippines), Terminal Night Club (Quebec City) and Circus (Montreal).",
+		"soundcloud": "elliot-dehoyos"
+	},
+	{
+		"id": 7,
+		"artistID": "DH",
+		"imageURL": "./images/artists/dadhaus.jpg",
+		"singleimageURL": "../images/artists/dadhaus.jpg",
+		"name": "DADHAUS",
+		"bio": "Dadhaus is two music obsessives touched by the hand of the rave and seeking to rekindle the simple love of analog synths, glow sticks, and hands in the air. What are you on and where are you from?",
+		"soundcloud": "dadhaus"
+	},
+	{
+		"id": 8,
+		"artistID": "MR",
+		"imageURL": "./images/artists/markryal.jpg",
+		"singleimageURL": "../images/artists/markryal.jpg",
+		"name": "MARK RYAL",
+		"bio": "Dj and music producer at:Colour and Pitch Records Brighton, Ante Records Chicago, Xenology Records Scotland, Voyeur Music Madrid, We Are Minder Scotland, Wildtrackin Records Germany.Long at the forefront of the underground scene Mark has been djing for more than 27 years. Over the course of his career including his years at the Sub Club and The Nitsa Club Mark not only played alongside the other residents Harri, Domenic Cappello, Twitch and Oscar but also alongside nearly every notable DJ of the last 25 years.Mark has shared the turntables with them all; Derrick May, Juan Atkins, Blake Baxter, Mr Fingers, Stacey Pullen, Claude Young, Joshua, Gene Farris, DJ Rush, Cajmere, Gemini, DJ Sneak, Dan Curtin, Richie Hawtin, Darren Emmerson, Slam, Mark Broom, Funk d ́Void, Ralph Lawson, Kenny Hawkes, DJ Q, Joey Beltram, Baby Ford, Ian Pooley, Evil Eddie Richards, Darren Price, Faze Action, Kevin Saunderson, Schatrax, James Holroyd, Surgeon, The Advent, Carl Craig, Chez Damier, Johnny Fiasco, DJ Deep, Green Velvet, Steve Bug, Tom Middleton, Derrick Carter, Stevie Donaldson, Mr C, Larry Heard, Peter and Rene from Chain Reaction, Simon DK, Josh Brent, Nigel Hayes, Dj Dimitri, Luke Slater, Dave Angel, Dave Clarke even a memorable night with Dj Duke (at a house party in his flat in Glasgow) and many many more. He has held residencies in two of the most important clubs in their respective countries The Sub Club and The Nitsa Club and been at the forefront of pushing the Underground agenda wherever he plays. Currently Mark is resident Dj at Indeep, Science, Black Out and Horizontal. All nights where he continues to explore the deeper side of electronic music, playing his Detroit influenced house and techno.",
+		"soundcloud": "mark-ryal"
+	},
+	{
+		"id": 9,
+		"artistID": "RI",
+		"imageURL": "./images/artists/rico2.jpg",
+		"singleimageURL": "../images/artists/rico2.jpg",
+		"name": "RICCICOMOTO",
+		"bio": "MUSICPRODUCTION: riccicomoto (enrico regini) is a well known DJ and producer living in Ibiza...for the last few years he's grooved in clubs and festivals with his special and unique sound... ...always on the lookout for something out of the ordinary, the special sound, with the provided musical repertoire, which is varied, unusual and distinguishes his sound......as a producer his special interest is the electronic variety of jazz, soul and the cinematic sounds...but also ambient, break beat, dub, trip hop, down tempo, electronica and deep house tunes are included in his repertoire...his productions mix established and transformed genre and go sometimes in a new symbiosis direction......he has been experimenting with a computer, different sound machines and a 22 year old Yamaha organ to create a sound that's very original...which he then tests on non suspecting listeners in clubs and events......up until now he has had no complaints...or casualties...IBIZA GLOBAL RADIO: since august 2007 Riccicomoto has got his own international weekly radio show at 'Ibiza Gobal Radio'...this is one of the most important european radio stations for club-culture and electronic media... ...the show called 'Riccicomoto ́s audio self defence' is running every saturday at 3PM...his DJ sets are always diversified...often a mix of casual-jazz and cliff - hanging score-tunes...gliding over with perfect dub-techniques and roof raising bass lines to initiate the ultimate electrodubtechjazz experience... ...riccicomoto's sound is never intrusive...you will feel just fine, movin' your ass at the dancefloor...or head nodding taking a drink at the bar...so just come around... http://riccicomoto.de.",
+		"soundcloud": "riccicomoto"
+	},
+	{
+		"id": 10,
+		"artistID": "EI",
+		"imageURL": "./images/artists/eisenheim.jpg",
+		"singleimageURL": "../images/artists/eisenheim.jpg",
+		"name": "EISENHEIM",
+		"bio": "The Eisenheim's frequential quintessence tale goes back into a large gamut of mind facts, chances and choices giving, thus, the feeling to listen to stories within an order of notes, songs and words. This is the moment to decide to enter in a different universe so that you give yourselves the opportunity to transmit another perspective of things, Materia, and unity.",
+		"soundcloud": "eisenheimusic"
+	},
+	{
+		"id": 11,
+		"artistID": "BG",
+		"imageURL": "./images/artists/begona.jpg",
+		"singleimageURL": "../images/artists/begona.jpg",
+		"name": "BEGONA",
+		"bio": "Begoña is one half of New York's renowned producer and DJ duo Sleepy & Boo, and she is proudly making her solo recording debut on 3Bridge Elements and 3Bridge Records. Her Horizons EP marks an evolution of Begoña's deep interest in meditation, spirituality and consciousness, expanding on the 20-minute meditation soundtrack paths she has been releasing over the last year. Begoña's music explores more contemplative grooves, inspired by nature and stillness, incorporating elements of downtempo, dub, ambient and balearic vibes. She is a firm believer that music has the power to heal, transform and connect the world and all individuals."
+	},
+	{
+		"id": 12,
+		"artistID": "CS",
+		"imageURL": "./images/artists/companyss.png",
+		"singleimageURL": "../images/artists/companyss.png",
+		"name": "THE COMPANY SOUNDSYSTEM",
+		"bio": "The Company Soundsystem emerged from Brooklyn's underground house scene and has made a name for himself with incendiary live sets and genre-crossing original tracks on labels Nite Grooves (NYC), LTHM (San Francisco) and 3Bridge Records (NYC)."
+	},
+	{
+		"id": 13,
+		"artistID": "SL",
+		"imageURL": "./images/artists/slava.jpg",
+		"singleimageURL": "../images/artists/slava.jpg",
+		"name": "SLAV-KA",
+		"bio": "Not content with being merely a left brain-er, Slav Ka has searched for a creative outlet of his right brain activity and found it with electronic music production.  Self-taught and curious by nature yet anchored by the experience of a life long music aficionado, his sound attempts at walking the line between playful experimentation of a novice and rigid demands for dance orthodoxy of a jaded raver."
+	},
+	{
+		"id": 14,
+		"imageURL": "./images/artists/shakib.jpg",
+		"singleimageURL": "../images/artists/shakib.jpg",
+		"artistID": "SJ",
+		"name": "SHAKIB JAKIR",
+		"bio": "Shakib Jakir started his musical journey at a very young age. He grew up learning Indian classical music at the age of 4 playing harmony with his father. For years he played the bass, but his love for dark and heavy bass lines, and the melodic synth pads of house & techno drew him to produce his own electronic music. He learned music production from some of his very close and talented friends, but his unique sound and production style came so naturally that he has since then taken his own path.  Now 2 years into his passion, Shakib has released tracks on Incepto Bundles, Absurd State, Inmost Records, Aeriform Records, and 3Bridge Records."
+	},
+	{
+		"id": 15,
+		"artistID": "TC",
+		"imageURL": "./images/artists/tonycrawm.jpg",
+		"singleimageURL": "../images/artists/tonycrawm.jpg",
+		"name": "TONY CRAWM",
+		"bio": "Tony Crawm is a young and lively Dj/Producer that was born in Málaga, Spain in 1984. In 2004 his passion for music drew  him into the world of electronics, collaborating on Electro House,Tech House and House festivals. During the first years he was strongly influenced by great Spanish DJs like Iván Pica, David Penn, Miguel Picasso and Dj Chus, as well as by Stefano Noferini,Thomas Gold, DJ loko, Jay Lumen, Filthy Rich and Umek on the international scene. 2007 was the key year for developing his musical style, when he started doing his own performances and mixes, along with the desire of experimenting with professional advanced software.  This is how Tony Crawm was born as we know him today. Since 2009 he has been performing his own sessions without a break, working on events and festivals, giving priority to rhythms, strength and originality. In 2010 we worked as a promoter for House/Tech House festivals in local and public spaces as Sala Liquid Brains (Málaga), Café Lounge Almora (Málaga), and started as a resident DJ for Disco Parthenon (Torremolinos). In 2012, after two years of successful events, he started revealing himself as a DJ with a sharp ear skilled in catching the latest trends that he brings into his works without stridency and where elegance is dominant. His house, tech house, and techno sessions speak for themselves and show us a DJ and producer in top form with plenty of history ahead to write."
+	},
+	{
+		"id": 16,
+		"artistID": "SB",
+		"imageURL": "./images/artists/sleepyboo.jpg",
+		"singleimageURL": "../images/artists/sleepyboo.jpg",
+		"name": "SLEEPY & BOO",
+		"bio": "Sleepy & Boo's undying passion for underground music pervades everything they do. As DJs, this duo have become essential figures in the Big Apple’s dynamic music scene. They have left their mark on countless dancefloors of all shapes and sizes, rocking rooms both big and small across New York City and beyond. Their sets are all about the groove, mixing together the best tracks from across the musical spectrum, hand-selecting the choicest cuts to create an unmatched vibe and atmosphere. Whether supporting some of the world’s biggest DJs, or crafting their own headlining sets, Sleepy & Boo are known for their musical diversity and knack for picking the right tracks at the right moment. \n2015 marked a new phase for Sleepy & Boo, who entered into the production arena with the release of their own original music. 'The 17th Floor' EP on New York's esteemed Nervous Records marked their production debut. That was followed up by 'The Highway EP' on Nervous, plus EPs on New York's techno upstart De-Noize Records, Italy's Lapsus Music, Romania's Quanticman Records, the UK's Savoir Faire Musique, and SF's Moulton Music. Their productions reflect their DJing style: wide-ranging, dancefloor-driven tracks that cover emotions and energy from dark to light. Apart from their own events, the duo is consistently DJing at some of the best parties, venues and festivals around the world."
+	},
+	{
+		"id": 17,
+		"artistID": "FG",
+		"imageURL": "./images/artists/gatto.jpg",
+		"singleimageURL": "../images/artists/gatto.jpg",
+		"name": "GATTO",
+		"bio": "Gatto is a purveyor of the arts who's been deeply involved in the NYC arts scene for nearly two decades. Through the organization he founded in the early 2000s- Art for Progress (AFP), he produced over 50 major art & music events from NYC to Miami and San Francisco. While running AFP, Gatto was also pursuing his own creative endeavors- spinning vinyl at underground parties in downtown NYC. People started noticing him among the city’s dance music world, and his high energy style garnered attention in the scene. Soon after, he was offered gigs to play opening sets for some of the bigger names in dance music at the underground clubs and bigger rooms across NYC. Opening for Derrick Carter at Sleepy + Boo’s party at Sullivan Room, and playing the main floor at Crobar set the stage for bigger things. Opportunities to travel to San Francisco to play at 1015 Folsum and Miami’s WMC alongside the likes of Josh Wink, Tommie Sunshine and Andy Caldwell followed. Back at home, Gatto maintained his presence in the art scene playing at NYC’s Fashion Week shows, magazine launch parties and underground art parties. After countless hours working in the studio, Gatto’s first release, “Deep Twist” came out on Brooklyn’s 3 Bridge Records in 2016. In early 2017, Gatto's next release, “Spaced Invaders” was lauded by DJ Mag Espana as the highlight of Flemcy Music’s “Brighton” compilation. With the success of “Spaced Invaders” the label released an EP with remixes later that year. Gatto’s refusal to fit into a certain style and his desire to let the creative process drive his productions, have led to releases on diverse labels such as Deep Sessions, BQ Recordings and Spain’s deep house imprint Soleid Music. Gatto’s dance remake of the classic “Cherokee People” released on Soleid in 2019 has become a fan favorite on Spotify. He continues to be prolific and produce a lot of music while throwing his own events."
+	},
+	{
+		"id": 17,
+		"artistID": "FG",
+		"imageURL": "./images/artists/gatto.jpg",
+		"singleimageURL": "../images/artists/gatto.jpg",
+		"name": "GATTO",
+		"bio": "Gatto is a purveyor of the arts who's been deeply involved in the NYC arts scene for nearly two decades. Through the organization he founded in the early 2000s- Art for Progress (AFP), he produced over 50 major art & music events from NYC to Miami and San Francisco. While running AFP, Gatto was also pursuing his own creative endeavors- spinning vinyl at underground parties in downtown NYC. People started noticing him among the city’s dance music world, and his high energy style garnered attention in the scene. Soon after, he was offered gigs to play opening sets for some of the bigger names in dance music at the underground clubs and bigger rooms across NYC. Opening for Derrick Carter at Sleepy + Boo’s party at Sullivan Room, and playing the main floor at Crobar set the stage for bigger things. Opportunities to travel to San Francisco to play at 1015 Folsum and Miami’s WMC alongside the likes of Josh Wink, Tommie Sunshine and Andy Caldwell followed. Back at home, Gatto maintained his presence in the art scene playing at NYC’s Fashion Week shows, magazine launch parties and underground art parties. After countless hours working in the studio, Gatto’s first release, “Deep Twist” came out on Brooklyn’s 3 Bridge Records in 2016. In early 2017, Gatto's next release, “Spaced Invaders” was lauded by DJ Mag Espana as the highlight of Flemcy Music’s “Brighton” compilation. With the success of “Spaced Invaders” the label released an EP with remixes later that year. Gatto’s refusal to fit into a certain style and his desire to let the creative process drive his productions, have led to releases on diverse labels such as Deep Sessions, BQ Recordings and Spain’s deep house imprint Soleid Music. Gatto’s dance remake of the classic “Cherokee People” released on Soleid in 2019 has become a fan favorite on Spotify. He continues to be prolific and produce a lot of music while throwing his own events."
+	},
+	{
+		"id": 18,
+		"artistID": "RW",
+		"imageURL": "./images/artists/gatto.jpg",
+		"singleimageURL": "../images/artists/gatto.jpg",
+		"name": "RICK WADE",
+		"bio": "Gatto is a purveyor of the arts who's been deeply involved in the NYC arts scene for nearly two decades. Through the organization he founded in the early 2000s- Art for Progress (AFP), he produced over 50 major art & music events from NYC to Miami and San Francisco. While running AFP, Gatto was also pursuing his own creative endeavors- spinning vinyl at underground parties in downtown NYC. People started noticing him among the city’s dance music world, and his high energy style garnered attention in the scene. Soon after, he was offered gigs to play opening sets for some of the bigger names in dance music at the underground clubs and bigger rooms across NYC. Opening for Derrick Carter at Sleepy + Boo’s party at Sullivan Room, and playing the main floor at Crobar set the stage for bigger things. Opportunities to travel to San Francisco to play at 1015 Folsum and Miami’s WMC alongside the likes of Josh Wink, Tommie Sunshine and Andy Caldwell followed. Back at home, Gatto maintained his presence in the art scene playing at NYC’s Fashion Week shows, magazine launch parties and underground art parties. After countless hours working in the studio, Gatto’s first release, “Deep Twist” came out on Brooklyn’s 3 Bridge Records in 2016. In early 2017, Gatto's next release, “Spaced Invaders” was lauded by DJ Mag Espana as the highlight of Flemcy Music’s “Brighton” compilation. With the success of “Spaced Invaders” the label released an EP with remixes later that year. Gatto’s refusal to fit into a certain style and his desire to let the creative process drive his productions, have led to releases on diverse labels such as Deep Sessions, BQ Recordings and Spain’s deep house imprint Soleid Music. Gatto’s dance remake of the classic “Cherokee People” released on Soleid in 2019 has become a fan favorite on Spotify. He continues to be prolific and produce a lot of music while throwing his own events."
+	}
 ]
