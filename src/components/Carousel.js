@@ -11,7 +11,7 @@ import rel3 from "../images/carousel/deepwoodslove.jpg"
 export default function Carousel() {
 	let settings = {
 		dots: true,
-		className: "sample"
+		className: "images"
 	}
 
 	return (
@@ -34,7 +34,7 @@ export default function Carousel() {
 }
 
 const Wrapper = styled.div`
-	.sample {
+	.images {
 		margin-left: auto;
 		margin-right: auto;
 		width: 300px;
