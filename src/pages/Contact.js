@@ -43,15 +43,20 @@ const Contact = () => {
 				<textarea
 					name="text"
 					className="feedback-input"
-					placeholder="Com  ment"></textarea>
+					placeholder="Please place any links here you'd like us to listen to"></textarea>
 				<input type="submit" value="SUBMIT" />
 			</form>
 		</Wrapper>
 	)
 }
 const Wrapper = styled.div`
+	h2 {
+		color: white;
+		text-align: center;
+		margin-top: 10px;
+	}
 	form {
-		max-width: 420px;
+		max-width: 600px;
 		margin: 50px auto;
 	}
 

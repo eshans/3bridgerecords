@@ -24,8 +24,8 @@ function Artist() {
 
 const Wrapper = styled.div`
 	img {
-		width: 250px;
-		height: 250px;
+		width: 300px;
+		height: 300px;
 		object-fit: cover;
 	}
 
@@ -37,7 +37,7 @@ const Wrapper = styled.div`
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 		flex-wrap: wrap;
-		margin: 2rem 0 1rem 30px;
+		margin: 2rem 0 1rem 0rem;
 	}
 
 	.item {
