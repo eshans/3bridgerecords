@@ -40,13 +40,11 @@ const Release = () => {
 const Wrapper = styled.div`
 	.release {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-		flex-wrap: wrap;
+		grid-template-columns: repeat(auto-fill, 300px);
+		gap: 3rem;
 		margin: 2rem 0 1rem 30px;
-	}
-
-	.item {
-		margin-bottom: 2rem;
+		align-items: center;
+		justify-content: center;
 	}
 
 	.item img {

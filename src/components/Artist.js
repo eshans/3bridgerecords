@@ -35,9 +35,11 @@ const Wrapper = styled.div`
 
 	.content.artists {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-		flex-wrap: wrap;
-		margin: 2rem 0 1rem 0rem;
+		grid-template-columns: repeat(auto-fill, 300px);
+		gap: 3rem;
+		margin-top: 2rem;
+		align-items: center;
+		justify-content: center;
 	}
 
 	.item {
