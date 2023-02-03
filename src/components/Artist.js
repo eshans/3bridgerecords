@@ -31,6 +31,7 @@ const Wrapper = styled.div`
 
 	.header {
 		color: #fff;
+		text-align: center;
 	}
 
 	.content.artists {

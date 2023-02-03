@@ -5,8 +5,8 @@ import { Link } from "react-router-dom"
 import "../main.css"
 
 const Release = () => {
-	// get first 12 items in array
-	const STEP = 12
+	// get first 15 items in array
+	const STEP = 15
 	const [items, setItems] = useState(releases.slice(0, STEP))
 
 	//Adds next 12
@@ -58,6 +58,7 @@ const Wrapper = styled.div`
 
 	.header {
 		color: #fff;
+		text-align: center;
 	}
 
 	.fadein img {
@@ -90,16 +91,15 @@ const Wrapper = styled.div`
 	}
 
 	.btn {
-		height: 30px;
+		height: 270px;
 		background-color: blue;
 		border-radius: 4px;
 		border: none;
 		outline: none;
 		color: #fff;
-		width: 270px;
+		width: 300px;
 		font-size: 16px;
 		font-weight: bold;
-		padding: 6px 0 1rem 0;
 	}
 `
 export default Release
