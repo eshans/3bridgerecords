@@ -132,6 +132,7 @@ const Wrapper = styled.div`
 
 	.wavy {
 		background: linear-gradient(0.5turn, gray, 10%, black);
+		height: 1vh;
 	}
 `
 
