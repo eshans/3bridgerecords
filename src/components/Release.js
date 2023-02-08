@@ -93,14 +93,15 @@ const Wrapper = styled.div`
 	}
 
 	.btn {
-		height: 275px;
+		height: 270px;
 		background-color: black;
 		border: none;
 		outline: none;
 		color: #fff;
 		font-size: 16px;
 		font-weight: bold;
-		width: 270px;
+		width: 90%;
+		margin-top: -5px;
 	}
 
 	.btn img {
@@ -108,11 +109,12 @@ const Wrapper = styled.div`
 		align-items: center;
 		justify-content: center;
 		margin: 0 auto;
+		cursor: pointer;
 	}
 
 	.btn p {
-		margin-top: 10px;
-		font-size: 18px;
+		margin-top: 3rem;
+		font-size: 1rem;
 	}
 `
 export default Release

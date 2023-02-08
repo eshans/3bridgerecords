@@ -68,6 +68,7 @@ const Wrapper = styled.div`
 
 	h4 {
 		margin-left: 15px;
+		font-size: 2rem;
 	}
 
 	.image {

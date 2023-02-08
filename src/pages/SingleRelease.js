@@ -1,5 +1,6 @@
 import { useParams, Link } from "react-router-dom"
 import releases from "../data/releases.json"
+import artists from "../data/artists.json"
 import styled from "styled-components"
 import "../main.css"
 
@@ -7,7 +8,8 @@ function SingleRelease(props) {
 	const { id } = useParams()
 	//r.id === id compares r.id of type number to id of type string, which will result false due to the '===' strict operator so +id converts
 	const release = releases.find((r) => r.id === +id)
-	const { imageURL, title, description, buy, stream } = release
+
+	const { imageURL, title, description, buy, stream, artist } = release
 
 	return (
 		<Wrapper>
@@ -32,6 +34,8 @@ function SingleRelease(props) {
 					<Link to="/releases"> Back To Releases</Link>
 				</div>
 			</div>
+
+			<div>more from {artist}</div>
 		</Wrapper>
 	)
 }

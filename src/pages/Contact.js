@@ -33,17 +33,20 @@ const Contact = () => {
 					type="text"
 					className="feedback-input"
 					placeholder="Name"
+					required
 				/>
 				<input
 					name="email"
 					type="text"
 					className="feedback-input"
 					placeholder="Email"
+					required
 				/>
 				<textarea
 					name="text"
 					className="feedback-input"
-					placeholder="Please place any links here you'd like us to listen to"></textarea>
+					required
+					placeholder="Please place any links here you'd like us to listen to or just ask a question :)"></textarea>
 				<input type="submit" value="SUBMIT" />
 			</form>
 		</Wrapper>
@@ -68,7 +71,7 @@ const Wrapper = styled.div`
 		border-radius: 5px;
 		line-height: 22px;
 		background-color: transparent;
-		border: 2px solid #cc6666;
+		border: 2px solid blue;
 		transition: all 0.3s;
 		padding: 13px;
 		margin-bottom: 15px;
@@ -78,7 +81,7 @@ const Wrapper = styled.div`
 	}
 
 	.feedback-input:focus {
-		border: 2px solid #cc4949;
+		border: 2px solid gray;
 	}
 
 	textarea {
@@ -90,7 +93,7 @@ const Wrapper = styled.div`
 	[type="submit"] {
 		font-family: "Montserrat", Arial, Helvetica, sans-serif;
 		width: 100%;
-		background: #cc6666;
+		background: gray;
 		border-radius: 5px;
 		border: 0;
 		cursor: pointer;
