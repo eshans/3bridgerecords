@@ -3,6 +3,7 @@ import releases from "../data/releases.json"
 import styled from "styled-components"
 import { Link } from "react-router-dom"
 import "../main.css"
+import logo from "../images/logo.png"
 
 const Release = () => {
 	// get first 15 items in array
@@ -29,7 +30,8 @@ const Release = () => {
 				{/* If array is at the end, hide button */}
 				{items.length < releases.length && (
 					<button onClick={loadMore} className="btn">
-						SHOW MORE...
+						<img src={logo} />
+						<p>SHOW MORE..</p>
 					</button>
 				)}
 			</div>
@@ -91,15 +93,26 @@ const Wrapper = styled.div`
 	}
 
 	.btn {
-		height: 270px;
-		background-color: blue;
-		border-radius: 4px;
+		height: 275px;
+		background-color: black;
 		border: none;
 		outline: none;
 		color: #fff;
-		width: 300px;
 		font-size: 16px;
 		font-weight: bold;
+		width: 270px;
+	}
+
+	.btn img {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin: 0 auto;
+	}
+
+	.btn p {
+		margin-top: 10px;
+		font-size: 18px;
 	}
 `
 export default Release
