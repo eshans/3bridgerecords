@@ -1,7 +1,8 @@
 import { useState } from "react"
 import styled from "styled-components"
 
-const FORM_ENDPOINT = "" // TODO - fill on the later step
+const FORM_ENDPOINT =
+	"https://getform.io/f/2c5d2b1a-ae4f-416b-978b-ac2071752ffd" // TODO - fill on the later step
 
 const Contact = () => {
 	const [submitted, setSubmitted] = useState(false)
@@ -14,8 +15,8 @@ const Contact = () => {
 	if (submitted) {
 		return (
 			<>
-				<h2>Thank you!</h2>
-				<div>We'll be in touch soon.</div>
+				<h2 className="message-header">Thank you!</h2>
+				<div className="message">We'll be in touch soon.</div>
 			</>
 		)
 	}
@@ -53,11 +54,6 @@ const Contact = () => {
 	)
 }
 const Wrapper = styled.div`
-	h2 {
-		color: white;
-		text-align: center;
-		margin-top: 10px;
-	}
 	form {
 		max-width: 600px;
 		margin: 50px auto;
