@@ -1,1 +1,1 @@
-https://chinwike1.github.io/react-slick-carousel/
+
