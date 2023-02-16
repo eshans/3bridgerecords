@@ -42,4 +42,8 @@ const Wrapper = styled.div`
 	.carousel {
 		margin: 1rem;
 	}
+
+	.slick-dots li.slick-active button:before {
+		color: white !important;
+	}
 `

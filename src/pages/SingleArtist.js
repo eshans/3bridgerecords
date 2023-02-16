@@ -4,6 +4,7 @@ import { Link } from "react-router-dom"
 import { useParams } from "react-router-dom"
 import artists from "../data/artists.json"
 import releases from "../data/releases.json"
+import bg from "../images/records.jpg"
 
 function SingleArtist() {
 	const { id } = useParams() //finds single artist from array & matches ID
@@ -107,7 +108,7 @@ const Wrapper = styled.div`
 		max-width: 400px;
 		float: left;
 		margin: 0 15px 15px 0;
-		max-height: 70vh;
+		max-height: 50vh;
 	}
 
 	.section-header {
@@ -133,7 +134,8 @@ const Wrapper = styled.div`
 
 	.wavy {
 		background: linear-gradient(0.5turn, gray, 10%, black);
-		height: 1vh;
+		height: 30vh;
+		padding-bottom: 1px;
 	}
 `
 

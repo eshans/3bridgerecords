@@ -3,6 +3,7 @@ import releases from "../data/releases.json"
 import artists from "../data/artists.json"
 import styled from "styled-components"
 import "../main.css"
+import bg from "../images/records.jpg"
 
 function SingleRelease(props) {
 	const { id } = useParams()
@@ -35,7 +36,7 @@ function SingleRelease(props) {
 				</div>
 			</div>
 
-			<div>more from {artist}</div>
+			{/* <div className="more">more from {artist}</div> */}
 		</Wrapper>
 	)
 }
@@ -63,7 +64,10 @@ const Wrapper = styled.div`
 	}
 
 	.links-container {
-		margin: 15px 0 0 10px;
+		margin: 15px 0 0 0;
+		background-image: url(${bg});
+		object-fit: fill;
+		padding-left: 12px;
 	}
 
 	.link a {
@@ -79,6 +83,11 @@ const Wrapper = styled.div`
 	.description {
 		color: #fff;
 		font-size: 1.4rem;
+	}
+
+	.more {
+		color: var(--clr-primary-10);
+		margin: 0.5rem;
 	}
 `
 

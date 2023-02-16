@@ -1,8 +1,10 @@
 import { useState } from "react"
+import "../main.css"
+
 import styled from "styled-components"
 
 const FORM_ENDPOINT =
-	"https://getform.io/f/2c5d2b1a-ae4f-416b-978b-ac2071752ffd" // TODO - fill on the later step
+	"https://getform.io/f/2c5d2b1a-ae4f-416b-978b-ac2071752ffd"
 
 const Contact = () => {
 	const [submitted, setSubmitted] = useState(false)
@@ -23,7 +25,7 @@ const Contact = () => {
 
 	return (
 		<Wrapper>
-			<h2> Fill out the below form and get in touch!</h2>
+			<h2 className="header-form">Fill out the below form and get in touch!</h2>
 			<form
 				action={FORM_ENDPOINT}
 				onSubmit={handleSubmit}
@@ -46,8 +48,8 @@ const Contact = () => {
 				<textarea
 					name="text"
 					className="feedback-input"
-					required
-					placeholder="Please place any links here you'd like us to listen to or just ask a question :)"></textarea>
+					placeholder="Please place any links here you'd like us to listen to or to just ask a question :)"
+					required></textarea>
 				<input type="submit" value="SUBMIT" />
 			</form>
 		</Wrapper>
@@ -57,6 +59,12 @@ const Wrapper = styled.div`
 	form {
 		max-width: 600px;
 		margin: 50px auto;
+	}
+
+	.header-form {
+		color: white;
+		text-align: center;
+		margin-top: 10px;
 	}
 
 	.feedback-input {

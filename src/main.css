@@ -157,94 +157,10 @@ hr {
 	max-width: var(--max-width);
 }
 
-@media screen and (min-width: 992px) {
-	.section {
-		width: 95vw;
-	}
-}
-
 .container {
 	padding: 0.5em;
 	background-image: var(--bg-gradient);
 	min-height: 100vh;
-}
-
-.content {
-	flex-direction: row;
-	align-items: left;
-	margin: 0 10px 0 20px;
-	padding: 0 10px 0 15px;
-}
-
-/*
-=============== 
-Navbar
-===============
-*/
-nav {
-	background: var(--clr-black);
-	box-shadow: var(--light-shadow);
-}
-
-.nav-header {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	padding: 1rem;
-}
-
-.nav-toggle {
-	font-size: 1.5rem;
-	color: var(--clr-white);
-	background: transparent;
-	border-color: transparent;
-	transition: var(--transition);
-	cursor: pointer;
-}
-
-.nav-toggle:hover {
-	color: var(--clr-white);
-	transform: rotate(90deg);
-}
-
-.logo {
-	height: 3rem;
-}
-
-.links a {
-	color: var(--clr-white);
-	font-size: 1.2rem;
-	text-transform: uppercase;
-	letter-spacing: var(--spacing);
-	display: block;
-	padding: 0.5rem 1rem;
-	transition: var(--transition);
-	font-family: "Nunito Bold", sans-serif;
-}
-
-.links a:hover {
-	background: var(--clr-primary-8);
-	color: var(--clr-primary-5);
-	padding-left: 1.5rem;
-}
-
-.social-icons {
-	display: none;
-}
-
-.links-container {
-	height: 0;
-	overflow: hidden;
-	transition: var(--transition);
-}
-
-.show-container {
-	height: 10rem;
-}
-
-.description {
-	font-size: 1rem;
-	color: #fff;
 }
 
 .message-header {
@@ -258,57 +174,18 @@ nav {
 	text-align: center;
 	margin-top: 10px;
 }
-@media screen and (min-width: 800px) {
-	.nav-center {
-		max-width: 1170px;
-		margin: 0 auto;
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-		padding: 1rem;
-	}
 
-	.nav-header {
-		padding: 0;
+@media screen and (min-width: 992px) {
+	.section {
+		width: 95vw;
 	}
+}
 
-	.nav-toggle {
-		display: none;
-	}
-
-	.links-container {
-		height: auto !important;
-		/*inline style has to get overwritten*/
-	}
-
-	.links {
-		display: flex;
-	}
-
-	.links a {
-		padding: 0;
-		margin: 0 1rem;
-	}
-
-	.links a:hover {
-		padding: 0;
-		background: transparent;
-	}
-
-	.social-icons {
-		display: flex;
-		font-size: 18px;
-	}
-
-	.social-icons a {
-		margin: 0 0.5rem;
-		color: var(--clr-white);
-		transition: var(--transition);
-	}
-
-	.social-icons a:hover {
-		color: var(--clr-primary-7);
-	}
+.content {
+	flex-direction: row;
+	align-items: left;
+	margin: 0 10px 0 20px;
+	padding: 0 10px 0 15px;
 }
 
 @media screen and (max-width: 800px) {
